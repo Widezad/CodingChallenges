@@ -11,7 +11,10 @@ Notes
 String str will never be null.
 */
 
+
 const replaceDots = (str) => {
+    //split string at '.' join at '-'
    return str.split('.').join('-')
 }
+//test cases
 console.log(replaceDots("one.two.three")) //"one-two-three"
