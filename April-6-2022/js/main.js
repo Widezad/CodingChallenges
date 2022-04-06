@@ -24,7 +24,12 @@ return [4, 6, 8]
 //PseudoCode
 //Make a function that takes in an array
 function doubled(arr) {
-    return arr.map(n => n * 2)
+    if(arr.length === 0) {
+        console.log('invalid array')
+    }else {
+        return arr.map(n => n * 2)
+    }
 }
 //map through the array and multiply each elemeny by 2. aslo retun
 console.log(doubled([1, 2, 3]))
+console.log(doubled([]))
