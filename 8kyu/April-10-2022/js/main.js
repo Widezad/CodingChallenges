@@ -12,9 +12,8 @@ arrayMadness([4, 5, 6], [1, 2, 3]); // returns true since 4 ** 2 + 5
 
 //write function
 function arrayMadness(a, b) {
-    //return true if sum in a is greather than b
-    return a.reduce( ( sum, element) => sum + element ** 2, 0) >
-           b.reduce( (sum ,element) => sum + element ** 3, 0);
+    return a.reduce( ( acc, curr) => acc + curr ** 2, 0) >
+           b.reduce( (acc ,curr) => acc + curr ** 3, 0);
 }
 console.log(arrayMadness([4, 5, 6], [1, 2, 3]))
 console.log(arrayMadness([1,2 ,3], [4, 5, 6]))
