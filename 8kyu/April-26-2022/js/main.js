@@ -30,3 +30,5 @@ function gooseFilter (birds) {
 };
 console.log(gooseFilter( ["Mallard", "Hook Bill", "African", "Crested", "Pilgrim", "Toulouse", "Blue Swedish"]))
 
+  
+
