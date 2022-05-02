@@ -14,11 +14,24 @@ and COBOL) if not. The input values are always positive.
 const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
     // TODO
 
+    //Wrong Approach
+    /*
     if(Number(distanceToPump === 50 && mpg === 25 && fuelLeft === 2)) {
         return true
     }else {
         return false
     }
+    */
+
+    //should be
+    if(distanceToPump <= mpg * fuelLeft) {
+        return true
+    }
+    else{
+        return false
+    }
+    ///You're Supposed to calculate whether you can or not reach the fuel
+    //pump considering your car fuel and your car consumption.
 };
 console.log(zeroFuel(50, 25, 2))
 console.log(zeroFuel(100, 50, 1))
