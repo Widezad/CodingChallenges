@@ -34,7 +34,7 @@ If you make it, return "Alive!", if not, return "Shark Bait!".
 */
 
 function shark(pontoonDistance, sharkDistance, youSpeed, sharkSpeed, dolphin){
-    sharkDistance / (dolphin ? sharkSpeed / 2 : sharkSpeed) >
+    return sharkDistance / (dolphin ? sharkSpeed / 2 : sharkSpeed) >
     pontoonDistance / youSpeed ? console.log('Alive!') : console.log('Shark Bait!')
 }
 shark(12, 50, 4, 8, true)
