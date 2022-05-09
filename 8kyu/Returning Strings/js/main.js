@@ -8,7 +8,7 @@ may not execute properly]
 */
 
 function greet(name){
-    //Use template literals  
+    //Use template literals to return string
     return `Hello, ${name} how are you doing today?`
 }
 console.log(greet('wideza'))
