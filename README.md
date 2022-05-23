@@ -1,5 +1,7 @@
 # CodingChallenges
 
-<h1>Daily Codewars coding challenges</h1> 
+<h1 align="center">Daily Codewars coding challenges</h1> 
 
+<p align="center">
 <img src="https://www.codewars.com/users/Widezad/badges/large">
+ </p>
