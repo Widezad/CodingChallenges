@@ -5,3 +5,8 @@
 <p align="center">
 <img src="https://www.codewars.com/users/Widezad/badges/large">
  </p>
+ 
+ <p align="center">
+<img src="https://www.codewars.com/users/Widezad/stats">
+ </p>
+ 
