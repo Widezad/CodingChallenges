@@ -15,7 +15,6 @@ Always numbers between 0-9
 always a number
 return number in words
 
-
 */
 function switchItUp(number){
     //Use Swutch statement 
