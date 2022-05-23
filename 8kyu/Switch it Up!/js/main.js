@@ -41,6 +41,8 @@ function switchItUp(number){
             return 'eight';
         case 9:
             return 'nine'
+        default:
+            return 'not a valid number'
     }
 }
 //test cases 
