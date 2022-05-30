@@ -11,7 +11,6 @@ b = 4
 */
 
 function between(a, b) {
-    // your code here
     let newArr = []
     for(let i = a; i <= b; i++) {
         newArr.push(i)
