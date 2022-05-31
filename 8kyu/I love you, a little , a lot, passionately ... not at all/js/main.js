@@ -28,11 +28,7 @@ function howMuchILoveYou(nbPetals) {
         "not at all",
     ]
 
-    for (let i = 0; i <= nbPetals -1; i+=1) {
-        if(i === nbPetals-1) {
-            return phrase[i % 6]
-        }
-    }
+    return phrase[nbPetals % 6]
 }
 //test cases
 console.log(howMuchILoveYou(7)) //'love you'
