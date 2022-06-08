@@ -22,6 +22,12 @@ if enter 1 should return 9
 //code here
 
 //Create function
-
-
+function simpleMultiplication(number) {
+    
+}
 //test cases
+console.log(simpleMultiplication(2)) //16
+console.log(simpleMultiplication(1)) //9
+console.log(simpleMultiplication(8)) //64
+console.log(simpleMultiplication(4)) //32
+console.log(simpleMultiplication(5)) //45
