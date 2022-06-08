@@ -18,3 +18,10 @@ Always positive
 if enter 2 should return 16
 if enter 1 should return 9
 */
+
+//code here
+
+//Create function
+
+
+//test cases
