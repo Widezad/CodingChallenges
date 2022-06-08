@@ -42,3 +42,12 @@ console.log(simpleMultiplication(5)) //45
 //Refactored 
 
 const simpleMultiplication = (number) => number % 2 === 0 ? number * 8 : number * 9
+
+//If strings are entered 
+function simpleMultiplication(number) {
+    if(Number(number % 2 === 0)) {
+        return number * 8
+    }
+    else number * 9
+}
+console.log(simpleMultiplication('2')) //16
