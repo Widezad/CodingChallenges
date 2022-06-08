@@ -23,7 +23,9 @@ if enter 1 should return 9
 
 //Create function
 function simpleMultiplication(number) {
+    //if statement for when numbers are even
     
+    //else for when numbers are odd
 }
 //test cases
 console.log(simpleMultiplication(2)) //16
