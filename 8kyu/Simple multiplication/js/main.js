@@ -24,8 +24,13 @@ if enter 1 should return 9
 //Create function
 function simpleMultiplication(number) {
     //if statement for when numbers are even
-    
+    if(number % 2 === 0) {
+        return number * 8
+    }
     //else for when numbers are odd
+    else{
+        return number * 9
+    }
 }
 //test cases
 console.log(simpleMultiplication(2)) //16
