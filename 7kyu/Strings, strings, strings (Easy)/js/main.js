@@ -15,7 +15,8 @@ cannot convert any data type to strings!
 
 Task
 The toString() method has been disabled for booleans, numbers, 
-arrays and objects. Your goal is to retrive toString() for the following data types.
+arrays and objects. Your goal is to retrive toString() for the 
+following data types.
 
 I. Booleans
 For booleans:
