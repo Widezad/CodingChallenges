@@ -9,3 +9,12 @@ Example output:
 Hello, Mr. Spock
 */
 
+//Notes 
+/*
+function sayHello(name) {
+  return 'Hello'
+}
+code to fix
+always a string 
+must be able to great everyone as they come abord.
+*/
