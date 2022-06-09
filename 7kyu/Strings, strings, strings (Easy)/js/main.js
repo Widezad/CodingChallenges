@@ -84,3 +84,10 @@ function toStrings(stringIt) {
 console.log(toStrings(123)) //'123'
 console.log(toStrings(true)) //'true'
 console.log(toStrings([1,2,3,4,5])) //'[1,2,3,4,5]'
+
+//Took wrong approach didn't fully understand this kata
+//right answer
+
+String.prototype.toString = function(){
+    return `${this}`
+}
