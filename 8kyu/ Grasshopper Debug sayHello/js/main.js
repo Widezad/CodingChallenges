@@ -18,3 +18,8 @@ code to fix
 always a string 
 must be able to great everyone as they come abord.
 */
+
+//Write out function
+
+
+//test cases
