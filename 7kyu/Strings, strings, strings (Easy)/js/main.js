@@ -88,6 +88,8 @@ console.log(toStrings([1,2,3,4,5])) //'[1,2,3,4,5]'
 //Took wrong approach didn't fully understand this kata
 //right answer
 
+//They used string property along with string method then creted a funtion. 
+//and returned this as a template literal.
 String.prototype.toString = function(){
     return `${this}`
 }
