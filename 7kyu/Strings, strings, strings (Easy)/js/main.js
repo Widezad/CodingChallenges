@@ -68,10 +68,19 @@ Keep square braquets when arrays are entered
 */
 
 //write out function
-function toString() {
-
+function toStrings(stringIt) {
+    //conditional
+    if(stringIt === true) {
+        return 'true'
+    }
+    else if(stringIt === false) {
+        return 'false'
+    }
+    else if(stringIt === Number(stringIt)) {
+        return stringIt.toString()
+    }
 }
 //test cases
-console.log(toString(123)) //'123'
-console.log(toString(true)) //'true'
-console.log(toString([1,2,3,4,5])) //'[1,2,3,4,5]'
+console.log(toStrings(123)) //'123'
+console.log(toStrings(true)) //'true'
+console.log(toStrings([1,2,3,4,5])) //'[1,2,3,4,5]'
