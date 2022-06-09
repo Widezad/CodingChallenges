@@ -68,6 +68,10 @@ Keep square braquets when arrays are entered
 */
 
 //write out function
+function toString() {
 
-
+}
 //test cases
+console.log(toString(123)) //'123'
+console.log(toString(true)) //'true'
+console.log(toString([1,2,3,4,5])) //'[1,2,3,4,5]'
