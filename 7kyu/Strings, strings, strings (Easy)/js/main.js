@@ -23,6 +23,7 @@ For booleans:
 
 true should be converted to "true"
 false should be converted to "false"
+
 II. Numbers
 For numbers, conversion should be as follows:
 
@@ -35,9 +36,9 @@ Math.PI.toString() === "3.141592653589793"
 III. Arrays
 For the purposes of this Kata, you will only be expected to 
 convert arrays with numbers only into strings. However, on top of
- fixing it, we would also like to improve it as well. We would like 
- to keep the square brackets ([]) around the "stringified" array as 
- it would be seen in Javascript code. For example:
+fixing it, we would also like to improve it as well. We would like 
+to keep the square brackets ([]) around the "stringified" array as 
+it would be seen in Javascript code. For example:
 
 // e.g.
 [].toString() === "[]"
@@ -57,4 +58,11 @@ Final Note - IMPORTANT
 Your recovered toString() methods should only return the 
 stringified version of the input - it should NOT alter the
 original value. Test cases have been created to confirm this.
+*/
+
+//Notes 
+/*
+true should return 'true' same for 'false'
+numbers should be converted to strings
+Keep square braquets when arrays are entered 
 */
