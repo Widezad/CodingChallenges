@@ -66,3 +66,8 @@ true should return 'true' same for 'false'
 numbers should be converted to strings
 Keep square braquets when arrays are entered 
 */
+
+//write out function
+
+
+//test cases
