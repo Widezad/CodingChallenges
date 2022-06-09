@@ -27,3 +27,6 @@ function sayHello(name) {
 //test cases
 console.log(sayHello('Mr. Spock')) // 'Hello, Mr, Spock'
 console.log(sayHello('Captain. Kirk')) // 'Hello, Captain Kirk'
+
+//Refactored
+const sayHello = (name) => `Hello, ${name}`
