@@ -21,6 +21,7 @@ must be able to great everyone as they come abord.
 
 //Write out function
 function sayHello(name) {
-    return 'Hello'
+    //Use template literals to plug in name parameter
+    return `Hello ${name}`
 }
 //test cases
