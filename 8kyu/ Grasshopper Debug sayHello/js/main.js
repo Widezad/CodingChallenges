@@ -25,4 +25,5 @@ function sayHello(name) {
     return `Hello, ${name}`
 }
 //test cases
-console.log(sayHello('Mr. Spock')) // 'Hello, Mr, Spock
+console.log(sayHello('Mr. Spock')) // 'Hello, Mr, Spock'
+console.log(sayHello('Captain. Kirk')) // 'Hello, Captain Kirk'
