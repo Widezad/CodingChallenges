@@ -23,3 +23,7 @@ const EITHER = "Either";
 is Preloaded.
 */
 
+//So basicaly if the sum of the number entered is even return even
+//else if odd return odd
+//else return either
+
