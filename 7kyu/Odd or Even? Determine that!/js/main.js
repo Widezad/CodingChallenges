@@ -28,7 +28,10 @@ is Preloaded.
 //else return either
 
 //Write out function
-
-
+function oddOrEven(n) {
+    
+}
 //test cases
-
+console.log(oddOrEven(1)) //Either
+console.log(oddOrEven(6)) //ODD
+console.log(oddOrEven(8)) //EVEN
