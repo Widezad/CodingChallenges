@@ -29,7 +29,12 @@ is Preloaded.
 
 //Write out function
 function oddOrEven(n) {
-    
+    if(n.reduce((a, b) => a + b) % 2 === 0) {
+        return 'EVEN'
+    }
+    else{
+        return 'ODD'
+    }
 }
 //test cases
 console.log(oddOrEven(1)) //Either
