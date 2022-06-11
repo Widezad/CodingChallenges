@@ -29,14 +29,17 @@ is Preloaded.
 
 //Write out function
 function oddOrEven(n) {
-    let sum = 0;
-    if(n.length !== 0) {
-        sum = n.reduce((x, y) => x + y) 
-        return sum % 2 === 0 ? 'EVEN' : 'ODD' 
+    if (n !== 1){
+      if (n % 2 === 1) {
+        return "Either"
+      }
+      if (n/2 % 2 === 0) {
+        return "Even"
+      } else {
+        return "Odd"
+      }
     }
-    else{
-        return 'EITHER'
-    }
+    return "Either"  
 }
 //test cases
 console.log(oddOrEven(1)) //Either
