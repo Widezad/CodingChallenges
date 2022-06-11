@@ -15,4 +15,11 @@ Odd_or_Even(6) should return Odd, because 6 consecutive numbers
 contain 3 odd and 3 even numbers, so their sum is always odd.
 Odd_or_Even(8) should return Even, because 8 consecutive numbers 
 contain 4 odd and 4 even numbers, so their sum is always even.
+
+Note
+const ODD = "Odd";
+const EVEN = "Even";
+const EITHER = "Either";
+is Preloaded.
 */
+
