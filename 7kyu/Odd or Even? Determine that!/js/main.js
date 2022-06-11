@@ -27,3 +27,8 @@ is Preloaded.
 //else if odd return odd
 //else return either
 
+//Write out function
+
+
+//test cases
+
