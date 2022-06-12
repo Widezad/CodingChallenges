@@ -17,6 +17,8 @@ you get it".
 //create conditional for when he hoops for more that 10 turns and less than turn 10
 
 //hoop count funtion
-
+function hoopCount (n) {
+    //your code goes here    
+}
 
 //tesst cases
