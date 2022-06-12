@@ -21,8 +21,14 @@ function hoopCount (n) {
        //loop
        for(let i = 0; i <= n; i++) {
            //conditional 
+           if(i < 10) {
+               return "Keep at it until you get it"
+           }
+           else {
+               return "Great, now move on to tricks"
+           }
        }
 }
 console.log(hoopCount(3)) //"Keep at it until you get it"
-console.log(hoopCount(3)) //"Great, now move on to tricks"
+console.log(hoopCount(11)) //"Great, now move on to tricks"
 //tesst cases
