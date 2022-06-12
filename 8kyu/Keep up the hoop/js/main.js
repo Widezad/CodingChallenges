@@ -14,3 +14,4 @@ you get it".
 //notes
 //write out function
 //create for loop
+//create conditional for when he hoops for more that 10 turns and less than turn 10
