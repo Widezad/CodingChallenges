@@ -19,8 +19,8 @@ you get it".
 //hoop count funtion
 function hoopCount (n) {
        //loop
-       for(let i = 0; i <= 10; i++) {
-           
+       for(let i = 0; i <= n; i++) {
+           //conditional 
        }
 }
 console.log(hoopCount(3)) //"Keep at it until you get it"
