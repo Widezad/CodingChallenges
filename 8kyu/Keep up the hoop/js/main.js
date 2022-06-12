@@ -10,3 +10,5 @@ on to tricks".
 If he doesn't get 10 hoops, return the string "Keep at it until 
 you get it".
 */
+
+//notes
