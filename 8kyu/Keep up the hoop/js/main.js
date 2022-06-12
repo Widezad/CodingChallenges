@@ -18,7 +18,7 @@ you get it".
 
 //hoop count funtion
 function hoopCount (n) {
-    //your code goes here    
+       
 }
 console.log(hoopCount(3)) //"Keep at it until you get it"
 console.log(hoopCount(3)) //"Great, now move on to tricks"
