@@ -13,3 +13,4 @@ you get it".
 
 //notes
 //write out function
+//create for loop
