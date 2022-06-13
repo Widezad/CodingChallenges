@@ -6,3 +6,7 @@ it's not working. Can you figure out why?
 //Notes
 //Fix bug
 // codewa.rs should be stores in variable called name
+
+let a = 'code';
+let b = 'wa.rs';
+let name = a + b;
