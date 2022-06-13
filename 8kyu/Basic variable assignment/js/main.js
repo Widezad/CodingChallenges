@@ -10,4 +10,4 @@ it's not working. Can you figure out why?
 let a = 'code';
 let b = 'wa.rs';
 let name = a + b;
-console.lo(name)
+console.log(name)
