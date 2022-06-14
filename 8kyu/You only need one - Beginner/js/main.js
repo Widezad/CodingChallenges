@@ -11,6 +11,8 @@ false if not.
 */
 
 //write out function
-
+function check(a, x) {
+    // your code here
+}
 
 //test cases
