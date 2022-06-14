@@ -14,5 +14,4 @@ false if not.
 function check(a, x) {
     // your code here
 }
-
 //test cases
