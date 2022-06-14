@@ -14,3 +14,6 @@ false if not.
 function check(a, x) {
 }
 //test cases
+console.log(check([66, 101], 66)) //true
+//test cases
+console.log(check([66, 101], 44)) //false
