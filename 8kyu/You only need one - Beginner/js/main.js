@@ -12,6 +12,7 @@ false if not.
 
 //write out function
 function check(a, x) {
+    return a.includes(x)
 }
 //test cases
 console.log(check([66, 101], 66)) //true
