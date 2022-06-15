@@ -21,3 +21,5 @@ function howManyDalmations(number) {
 
 }
 //test cases
+console.log(howManyDalmations(26)) //More than a handful!
+console.log(howManyDalmations(8)) //Hardly any
