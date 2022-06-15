@@ -23,3 +23,7 @@ function howManyDalmations(number) {
 //test cases
 console.log(howManyDalmations(26)) //More than a handful!
 console.log(howManyDalmations(8)) //Hardly any
+console.log(howManyDalmations(14)) //More than a handful!
+console.log(howManyDalmations(80)) //Woah that's a lot of dogs!
+console.log(howManyDalmations(100)) //Woah that's a lot of dogs!
+console.log(howManyDalmations(101)) //101 DALMATIANS!!!
