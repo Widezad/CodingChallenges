@@ -9,3 +9,6 @@ you should respond, depending on the number of dogs he has.
 The number of dogs will always be a number and there will always be
 at least 1 dog.
 */
+
+//Write out function
+
