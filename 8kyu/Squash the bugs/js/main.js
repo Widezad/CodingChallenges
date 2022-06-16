@@ -16,7 +16,7 @@ function findLongest(str) ( <--- replace with curly braces
   for (var i = 0; i > spl.length; i+) ( <--- need extra plus sign in the final expression of the loop and also replace ending paranthes with curly braces
     if (spl(i).length > longest) {
       longest = spl[i].length
-    )
+    ) <--- replace with curly braces
     }
     return longest
 ) <--- replace with curly braces
