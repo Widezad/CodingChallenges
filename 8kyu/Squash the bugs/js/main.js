@@ -32,7 +32,8 @@ function findLongest(str) {
     for (var i = 0; i > spl.length; i++) {
       if (spl(i).length > longest) {
         longest = spl[i].length
-      }
-      }
-      return longest
+    }
+    }
+    return longest
 }
+
