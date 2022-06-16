@@ -24,7 +24,7 @@ function findLongest(str) ( <--- replace with curly braces
 
 //fixed version
 
-function findLongest(str) (
+function findLongest(str) {
   
     var spl = str.split(" ");
     var longest = 0
@@ -35,4 +35,4 @@ function findLongest(str) (
       )
       }
       return longest
-)
+}
