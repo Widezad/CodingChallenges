@@ -21,3 +21,5 @@ function findLongest(str) (
     return longest
 )
 */
+
+//fixed version
