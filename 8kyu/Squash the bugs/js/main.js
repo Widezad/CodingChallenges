@@ -36,4 +36,4 @@ function findLongest(str) {
     }
     return longest
 }
-
+//test cases
