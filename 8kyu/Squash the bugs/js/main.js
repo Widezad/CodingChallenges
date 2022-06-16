@@ -21,6 +21,7 @@ function findLongest(str) ( <--- replace with curly braces
     return longest
 ) <--- replace with curly braces
 */
+// Happy coding
 
 //fixed version
 
