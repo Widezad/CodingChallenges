@@ -12,7 +12,7 @@ return all the numbers that were passed into the array multiplied.
 
 //write out function
 function grow(x){
-
+    return x.reduce((a, b) => a * b)
 }
 //test cases
 console.log(grow([1,2,3])) //6
