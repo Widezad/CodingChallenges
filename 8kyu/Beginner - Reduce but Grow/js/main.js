@@ -6,3 +6,5 @@ multiplying the values together in order. Example:
 */
 
 //Notes
+/*
+*/
