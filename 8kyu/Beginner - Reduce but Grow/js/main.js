@@ -7,4 +7,5 @@ multiplying the values together in order. Example:
 
 //Notes
 /*
+return all the numbers that were passed into the array multiplied.
 */
