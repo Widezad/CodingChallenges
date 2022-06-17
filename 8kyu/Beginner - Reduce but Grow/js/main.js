@@ -11,6 +11,8 @@ return all the numbers that were passed into the array multiplied.
 */
 
 //write out function
+function grow(x){
 
+}
 
 //test cases
