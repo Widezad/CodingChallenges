@@ -31,5 +31,7 @@ climbed using the formula above.
 */
 
 //write out function
-
+function stairsIn20(s){
+    //your code here
+}
 //test cases
