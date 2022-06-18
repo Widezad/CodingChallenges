@@ -33,5 +33,6 @@ climbed using the formula above.
 //write out function
 function stairsIn20(s){
     //your code here
+    return 20 * s.reduce((a, b) => a + b.reduce(c, d, 0),0)
 }
 //test cases
