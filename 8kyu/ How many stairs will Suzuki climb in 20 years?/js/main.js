@@ -31,3 +31,5 @@ climbed using the formula above.
 */
 
 //write out function
+
+//test cases
