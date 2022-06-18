@@ -24,6 +24,7 @@ Examples
 */
 
 //write out function
-
+function getRealFloor(n) {
+}
 
 //test cases
