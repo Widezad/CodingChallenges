@@ -22,3 +22,5 @@ Examples
 15  =>  13
 -3  =>  -3
 */
+
+//write out function
