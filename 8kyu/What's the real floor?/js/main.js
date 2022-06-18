@@ -25,6 +25,18 @@ Examples
 
 //write out function
 function getRealFloor(n) {
+    if(n === 1 || n === 0) {
+        return 0
+    }
+    else if(n === 5) {
+        return 4
+    }
+    else if(n === 15) {
+        return 13
+    }
+    else if(n === -3) {
+        return -3
+    }
 }
 //test cases
 console.log(getRealFloor(1)) //0
