@@ -29,3 +29,5 @@ sunday = [6737, 7244, 5776, 9826, 7057, 9247, 5842, 5484, 6543,
 Your function should return the 20 year estimate of the stairs 
 climbed using the formula above.
 */
+
+//write out function
