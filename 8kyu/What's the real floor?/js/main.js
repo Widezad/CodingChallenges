@@ -26,7 +26,6 @@ Examples
 //write out function
 function getRealFloor(n) {
 }
-
 //test cases
 console.log(getRealFloor(1)) //0
 console.log(getRealFloor(5)) //4
