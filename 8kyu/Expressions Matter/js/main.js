@@ -72,7 +72,8 @@ expressionsMatter(1,1,1)  ==>  return 3
 
 //Set up functions
 function expressionMatter(a, b, c) {
-    return // highest achievable result
+    Math.max( a+b+c, (a+b)*c, a*(b+c), a*b*c ) ;
+
 }
 //test cases
 console.log(expressionMatter(2,1,2)) //6
