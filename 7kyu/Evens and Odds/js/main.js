@@ -16,6 +16,7 @@ always a number
 */
 
 //write out function
-
-
+function evensAndOdds(num){
+	//your code here
+}
 //test cases
