@@ -75,3 +75,6 @@ function expressionMatter(a, b, c) {
     return // highest achievable result
 }
 //test cases
+console.log(expressionMatter(2,1,2)) //6
+console.log(expressionMatter(2,1,1)) //4
+console.log(expressionMatter(1,1,1)) //3
