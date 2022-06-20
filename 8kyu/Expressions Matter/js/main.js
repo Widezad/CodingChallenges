@@ -29,4 +29,12 @@ After placing signs and brackets, the Maximum value obtained from the expression
 (1+2) * 3 = 9.
 
 expressionsMatter(1,1,1)  ==>  return 3
+
+Explanation:
+After placing signs, the Maximum value obtained from the expression is 1 + 1 + 1 = 3.
+
+expressionsMatter(9,1,1)  ==>  return 18
+Explanation:
+After placing signs and brackets, the Maximum value obtained from the expression is 
+9 * (1+1) = 18. ___# Task
 */
