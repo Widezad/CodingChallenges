@@ -14,3 +14,5 @@ If pos turn into binary
 if neg turn into a hex
 always a number
 */
+
+//write out function
