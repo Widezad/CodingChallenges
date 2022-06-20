@@ -60,4 +60,12 @@ It's not necessary to place all the signs and brackets.
 Repetition in numbers may occur .
 You cannot swap the operands. For instance, in the given example you cannot get 
 expression (1 + 3) * 2 = 8.
+
+Input >> Output Examples:
+expressionsMatter(1,2,3)  ==>  return 9
+Explanation:
+After placing signs and brackets, the Maximum value obtained from the expression 
+(1+2) * 3 = 9.
+
+expressionsMatter(1,1,1)  ==>  return 3
 */
