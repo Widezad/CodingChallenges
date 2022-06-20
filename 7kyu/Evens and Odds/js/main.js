@@ -8,3 +8,9 @@ Numbers will be positive. The hexadecimal string should be lowercased.
 */
 
 //Notes 
+/* 
+Numbers will always be positive
+If pos turn into binary
+if neg turn into a hex
+always a number
+*/
