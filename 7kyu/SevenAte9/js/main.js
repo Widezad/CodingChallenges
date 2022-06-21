@@ -7,5 +7,5 @@ Write a function that removes every lone 9 that is inbetween 7s.
 
 //Notes
 /*
-
+Remove every number 9 that is between 7
 */
