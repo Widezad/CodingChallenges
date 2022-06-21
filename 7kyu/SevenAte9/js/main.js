@@ -16,3 +16,4 @@ function sevenAte9(str) {
 }
 //test cases
 console.log(sevenAte9('789')) //'77'
+console.log(sevenAte9('7979797')) //'7777'
