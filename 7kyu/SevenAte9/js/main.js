@@ -11,5 +11,7 @@ Remove every number 9 that is between 7
 */
 
 //write out function
-
+function sevenAte9(str) {
+  
+}
 //test cases
