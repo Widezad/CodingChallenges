@@ -13,18 +13,15 @@ always a string
 
 //write out function
 function sevenAte9(str) {
-    //create a variable that splits the string
-  let arr = str.split('');
-  //create for loop 
-  for(let i = 1; i < arr.length - 1; i++) {
-      if(arr[i - 1] === '7' && arr[i] === '9' && arr[i + 1] === '7') {
-          //splice it
-          arr.splice(i, 1);
+    while (true) {
+      if (str.search('797') !== -1) {
+        str = str.replace('797', '77');
+      } else {
+        break;
       }
-      // return and join it
-      return arr.join('')
+    }
+    return str;
   }
-}
 //test cases
 console.log(sevenAte9('789')) //'77'
 console.log(sevenAte9('7979797')) //'7777'
