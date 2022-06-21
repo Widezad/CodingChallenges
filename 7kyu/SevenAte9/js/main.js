@@ -18,7 +18,8 @@ function sevenAte9(str) {
   //create for loop 
   for(let i = 1; i < arr.length - 1; i++) {
       if(arr[i - 1] === '7' && arr[i] === '9' && arr[i + 1] === '7') {
-          
+          //splice it
+          arr.splice(i, 1);
       }
   }
 }
