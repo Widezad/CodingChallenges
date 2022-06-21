@@ -11,3 +11,5 @@ Remove every number 9 that is between 7
 */
 
 //write out function
+
+//test cases
