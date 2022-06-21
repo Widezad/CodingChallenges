@@ -13,7 +13,8 @@ always a string
 
 //write out function
 function sevenAte9(str) {
-  
+    //create a variable that splits the string
+  let arr = str.split('');
 }
 //test cases
 console.log(sevenAte9('789')) //'77'
