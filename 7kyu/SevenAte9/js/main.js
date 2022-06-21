@@ -22,6 +22,7 @@ function sevenAte9(str) {
           arr.splice(i, 1);
       }
       // return and join it
+      return arr.join('')
   }
 }
 //test cases
