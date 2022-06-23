@@ -29,3 +29,4 @@ function xor(a, b) {
 //test cases
 console.log(xor(false, false))
 console.log(xor(true, false))
+console.log(xor(false, true))
