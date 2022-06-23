@@ -24,7 +24,12 @@ true, false otherwise.
 
 //rite out function
 function xor(a, b) {
-    // TODO: Program Me
+    if (a == b)
+    return false
+  else if (a || b == true)
+    return true
+  else
+    false
 }
 //test cases
 console.log(xor(false, false))
