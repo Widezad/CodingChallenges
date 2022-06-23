@@ -26,5 +26,5 @@ true, false otherwise.
 function xor(a, b) {
     // TODO: Program Me
 }
-
 //test cases
+console.log(xor(false, false))
