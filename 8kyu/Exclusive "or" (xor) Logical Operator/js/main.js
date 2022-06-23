@@ -23,6 +23,8 @@ true, false otherwise.
 */
 
 //rite out function
-
+function xor(a, b) {
+    // TODO: Program Me
+}
 
 //test cases
