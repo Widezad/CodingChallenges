@@ -13,6 +13,8 @@ return true if the numbers that are in a and b are include in arr
 */
 
 //Write out function
-
+function consecutive(arr, a, b) {
+    // Your code here...
+}
 
 //Test cases
