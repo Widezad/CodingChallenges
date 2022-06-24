@@ -5,3 +5,5 @@ string) to a decimal number.
 
 //Write out function
 
+
+//test cases
