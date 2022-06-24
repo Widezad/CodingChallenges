@@ -11,3 +11,5 @@ It is guaranteed that a and b are both present in arr.
 /*
 return true if the numbers that are in a and b are include in arr
 */
+
+//Write out function
