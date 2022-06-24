@@ -13,3 +13,6 @@ return true if the numbers that are in a and b are include in arr
 */
 
 //Write out function
+
+
+//Test cases
