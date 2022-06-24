@@ -10,3 +10,5 @@ function hexToDec(hexString){
 
 //test cases
 console.log(hexToDec('1')) //1
+console.log(hexToDec('a')) //10
+console.log(hexToDec('10')) //16
