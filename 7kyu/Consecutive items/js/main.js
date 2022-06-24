@@ -18,3 +18,4 @@ function consecutive(arr, a, b) {
 }
 
 //Test cases
+console.log(consecutive([1, 3, 5, 7], 3, 7)) //falses
