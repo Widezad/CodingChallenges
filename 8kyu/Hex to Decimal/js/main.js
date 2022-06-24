@@ -4,7 +4,9 @@ string) to a decimal number.
 */
 
 //Write out function
-
+function hexToDec(hexString){
+    //your code here
+}
 
 //test cases
 console.log(hexToDec('1')) //1
