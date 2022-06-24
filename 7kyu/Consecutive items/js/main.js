@@ -7,4 +7,4 @@ b are consecutive, False otherwise).
 It is guaranteed that a and b are both present in arr.
 */
 
-//NOtes 
+//Notes 
