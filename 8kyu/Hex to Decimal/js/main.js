@@ -7,3 +7,4 @@ string) to a decimal number.
 
 
 //test cases
+console.log(hexToDec('1')) //1
