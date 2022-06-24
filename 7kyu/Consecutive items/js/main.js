@@ -13,17 +13,8 @@ return true if the numbers that are in a and b are include in arr
 */
 
 //Write out function
-function consecutive(arr, a, b) {
-    for(let index = 0; index < arr.length - 1; index++) {
-        if(arr[index == a]) {
-            return arr[index + 1 == b]
-        }
-        if(arr[index == b]) {
-            return arr[index + 1 == a]
-        }
-    }
-    return false
-}
+const consecutive = (arr, a, b) => Math.abs(arr.indexOf(a) - arr.indexOf(b)) == 1
+    
 
 //Test cases
 console.log(consecutive([1, 3, 5, 7], 3, 7)) //false
