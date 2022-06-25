@@ -10,3 +10,5 @@ function squareSum(numbers){
 
 }
 //test cases
+console.log(squareSum([1,2])) //5
+
