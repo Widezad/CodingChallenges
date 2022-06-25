@@ -11,4 +11,4 @@ function squareSum(numbers){
 }
 //test cases
 console.log(squareSum([1,2])) //5
-
+console.log(squareSum([0, 3, 4, 5])) //50
