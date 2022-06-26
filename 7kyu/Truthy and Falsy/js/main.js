@@ -17,5 +17,5 @@ have to fill this array with at least 5 elements in each
 which will evaluate to true or false accordingly.
 */
 
-const truthy = [];
+const truthy = [true, {}, [], "false", "0"];
 const falsy = [];
