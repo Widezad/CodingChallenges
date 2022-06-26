@@ -18,4 +18,4 @@ which will evaluate to true or false accordingly.
 */
 
 const truthy = [true, {}, [], "false", "0"];
-const falsy = [];
+const falsy = [false, 0, NaN, null, undefined];
