@@ -6,9 +6,8 @@ For example, for [1, 2, 2] it should return 9 because 1^2 + 2^2 + 2^2
 */
 
 //Write out function
-function squareSum(numbers){
-    let sqaure = numbers * 2
-    return sqaure
+function squareSum(numbers) { 
+    return numbers * numbers
 }
 //test cases
 console.log(squareSum([1,2])) //5
