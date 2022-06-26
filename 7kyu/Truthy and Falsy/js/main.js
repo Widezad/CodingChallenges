@@ -18,3 +18,4 @@ which will evaluate to true or false accordingly.
 */
 
 const truthy = [];
+const falsy = [];
