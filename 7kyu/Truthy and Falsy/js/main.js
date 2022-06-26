@@ -13,5 +13,6 @@ https://developer.mozilla.org/en-US/docs/Glossary/Falsy
 
 Your task
 You are given two empty arrays (truthy and falsy) and you 
-have to fill this array with at least 5 elements in each which will evaluate to true or false accordingly.
+have to fill this array with at least 5 elements in each 
+which will evaluate to true or false accordingly.
 */
