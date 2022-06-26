@@ -7,8 +7,9 @@ For example, for [1, 2, 2] it should return 9 because 1^2 + 2^2 + 2^2
 
 //Write out function
 function squareSum(numbers) { 
-    let square = numbers ** 2
+    let square = Math.pow(numbers)
     return square
+  
 }
 //test cases
 console.log(squareSum([1,2])) //5
