@@ -13,3 +13,6 @@ y is not considered a vowel for this kata
 */
 
 //Write out function
+
+
+//test cases
