@@ -18,3 +18,4 @@ function shortcut (string) {
 }
 
 //test cases
+console.log(shortcut('hello')) //'hll'
