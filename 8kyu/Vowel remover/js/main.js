@@ -13,6 +13,8 @@ y is not considered a vowel for this kata
 */
 
 //Write out function
-
+function shortcut (string) {
+    return '';
+}
 
 //test cases
