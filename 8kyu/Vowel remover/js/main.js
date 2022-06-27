@@ -14,7 +14,14 @@ y is not considered a vowel for this kata
 
 //Write out function
 function shortcut (string) {
-    return string.split('').remove('a', 'e', 'i', 'o', 'u').join('')
+    let str = string.split('');
+    for(let i = 0; i < string.length; i++) {
+        let char = string[i].toLowerCase();
+        if(char === 'a' || char === 'e' || char === 'i' || char === 'o' || char === 'u') {
+            str[i] = '';
+        }
+    }
+    return str.join('')
 }
 
 //test cases
