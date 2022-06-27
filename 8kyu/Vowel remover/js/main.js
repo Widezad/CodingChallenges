@@ -14,7 +14,7 @@ y is not considered a vowel for this kata
 
 //Write out function
 function shortcut (string) {
-    return string.split('')
+    return string.split('').remove('a', 'e', 'i', 'o', 'u').join('')
 }
 
 //test cases
