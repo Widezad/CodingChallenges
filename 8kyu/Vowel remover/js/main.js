@@ -11,3 +11,5 @@ Examples
 don't worry about uppercase vowels
 y is not considered a vowel for this kata
 */
+
+//Write out function
