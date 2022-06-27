@@ -7,4 +7,7 @@ Examples
 "codewars"  -->  "cdwrs"
 "goodbye"   -->  "gdby"
 "HELLO"     -->  "HELLO"
+
+don't worry about uppercase vowels
+y is not considered a vowel for this kata
 */
