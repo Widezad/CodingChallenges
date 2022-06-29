@@ -16,3 +16,4 @@ function abbrevName(name){
 //test cases
 console.log(abbrevName("Sam Harris")) //"S.H"
 console.log(abbrevName("Patrick Feenan")) //"P.F"
+console.log(abbrevName("Evan Cole")) //"E.C");
