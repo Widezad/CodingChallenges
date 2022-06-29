@@ -9,8 +9,7 @@ patrick feeney => P.F
 
 //Write put function
 function abbrevName(name){
-
-    // code away
+    return name.split('')
 
 }
 //test cases
