@@ -9,7 +9,7 @@ patrick feeney => P.F
 
 //Write put function
 function abbrevName(name){
-    return name.split('')
+    return name.split(" ").map((el)=> el[0].toUpperCase()).join(".")
 
 }
 //test cases
