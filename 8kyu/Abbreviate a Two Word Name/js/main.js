@@ -8,5 +8,9 @@ patrick feeney => P.F
 */
 
 //Write put function
+function abbrevName(name){
 
+    // code away
+
+}
 //test cases
