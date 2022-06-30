@@ -17,4 +17,7 @@ I is misinterpreted as 1
 The test cases contain numbers only by mistake.
 */
 
-//write out functioncs
+//write out functionc
+
+
+//test cases
