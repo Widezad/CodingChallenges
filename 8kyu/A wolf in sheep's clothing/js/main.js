@@ -15,4 +15,7 @@ eating my sheep". Otherwise, return "Oi! Sheep number N! You are about
 to be eaten by a wolf!" where N is the sheep's position in the queue.
 
 Note: there will always be exactly one wolf in the array.
+
+Examples
+
 */
