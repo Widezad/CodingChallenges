@@ -11,5 +11,6 @@ the end of the array:
    7      6      5      4      3            2      1
 
 f the wolf is the closest animal to you, return "Pls go away and stop 
-eating my sheep". Otherwise, return "Oi! Sheep number N! You are about to be eaten by a wolf!" where N is the sheep's position in the queue.
+eating my sheep". Otherwise, return "Oi! Sheep number N! You are about
+to be eaten by a wolf!" where N is the sheep's position in the queue.
 */
