@@ -18,6 +18,8 @@ The test cases contain numbers only by mistake.
 */
 
 //write out functionc
-
+function correct(string){
+	// your code here
+}
 
 //test cases
