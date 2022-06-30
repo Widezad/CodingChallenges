@@ -36,3 +36,5 @@ console.log(warnTheSheep(["sheep", "wolf", "sheep", "sheep", "sheep", "sheep", "
 //"Oi! Sheep number 5! You are about to be eaten by a wolf!"
 console.log(warnTheSheep(["wolf", "sheep", "sheep", "sheep", "sheep", "sheep", "sheep"]))
 //"Oi! Sheep number 6! You are about to be eaten by a wolf!"
+console.log(warnTheSheep(["sheep", "wolf", "sheep"]))
+//"Oi! Sheep number 1! You are about to be eaten by a wolf!"
