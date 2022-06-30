@@ -25,6 +25,8 @@ Output: "Pls go away and stop eating my sheep"
 */
 
 //Write out function
+function warnTheSheep(queue) {
 
+}
 
 //test cases
