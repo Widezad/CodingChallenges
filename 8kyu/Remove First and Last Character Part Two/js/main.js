@@ -18,3 +18,5 @@ Examples
 "1"    =>  NULL
 "1,2"  =>  NULL
 */
+
+//Write out function
