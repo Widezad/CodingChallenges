@@ -20,5 +20,9 @@ Examples
 */
 
 //Write out function
-
+function array(arr){
+    //Good luck
+    
+}
+    
 //test cases
