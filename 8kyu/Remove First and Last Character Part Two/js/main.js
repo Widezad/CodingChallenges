@@ -1,2 +1,3 @@
 /*
+This is a spin off of my first kata.
 */
