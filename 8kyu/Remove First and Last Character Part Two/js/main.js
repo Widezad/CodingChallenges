@@ -21,7 +21,7 @@ Examples
 
 //Write out function
 function array(arr){
-    return array.replace(1, -1)
+    return arr.replace(1, -1)
     
 }   
 //test cases
