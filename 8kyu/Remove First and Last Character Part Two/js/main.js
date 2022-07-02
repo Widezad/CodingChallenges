@@ -27,4 +27,4 @@ function array(arr){
 //test cases
 console.log(array('1,2,3')) //'2'
 console.log(array('1,2,3,4'))//'2 3'
-console.log()
+console.log(array('1,2,3,4,5'))//'2 3 4'
