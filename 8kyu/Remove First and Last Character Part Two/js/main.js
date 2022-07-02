@@ -1,3 +1,4 @@
 /*
 This is a spin off of my first kata.
+You are given a string containing a sequence of character sequences separated by commas.
 */
