@@ -23,6 +23,6 @@ Examples
 function array(arr){
     //Good luck
     
-}
-    
+}   
 //test cases
+console.log(array('1,2,3')) //'2'
