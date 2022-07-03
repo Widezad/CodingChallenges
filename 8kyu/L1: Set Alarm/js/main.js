@@ -14,3 +14,5 @@ setAlarm(false, true) -> false
 setAlarm(false, false) -> false
 setAlarm(true, false) -> true
 */
+
+//Write out function
