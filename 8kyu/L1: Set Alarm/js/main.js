@@ -17,7 +17,7 @@ setAlarm(true, false) -> true
 
 //Write out function
 function setAlarm(employed, vacation){
-    
+    return employed && !vacation;
 }
 
 
