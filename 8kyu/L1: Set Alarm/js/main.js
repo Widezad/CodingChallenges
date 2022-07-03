@@ -17,8 +17,14 @@ setAlarm(true, false) -> true
 
 //Write out function
 function setAlarm(employed, vacation){
-
+    if(employed !== vacation) {
+        return true
+    }
+    else {
+        return false
+    }
 }
+
 
 //test cases
 console.log(setAlarm(true, true)) //false
