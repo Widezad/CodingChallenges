@@ -17,10 +17,10 @@ setAlarm(true, false) -> true
 
 //Write out function
 function setAlarm(employed, vacation){
-    if(employed !== vacation) {
+    if(employed === vacation) {
         return true
     }
-    else {
+    else  {
         return false
     }
 }
