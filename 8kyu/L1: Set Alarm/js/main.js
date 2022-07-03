@@ -21,3 +21,4 @@ function setAlarm(employed, vacation){
 }
 
 //test cases
+console.log(setAlarm(true, true)) //false
