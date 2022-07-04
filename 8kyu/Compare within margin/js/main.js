@@ -14,5 +14,6 @@ Otherwise...
 
 When a is less than b, return -1.
 When a is greater than b, return 1.
+If margin is not given, treat it as zero.
 
 */
