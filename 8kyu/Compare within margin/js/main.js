@@ -9,4 +9,10 @@ to the distance between a and b.
 Please note the following:
 
 When a is close to b, return 0.
+
+Otherwise...
+
+When a is less than b, return -1.
+
+
 */
