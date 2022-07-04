@@ -5,4 +5,8 @@ lower than, close to, or higher than b.
 
 a is considered "close to" b if margin is greater than or equal 
 to the distance between a and b.
+
+Please note the following:
+
+When a is close to b, return 0.
 */
