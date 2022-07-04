@@ -39,3 +39,4 @@ function closeCompare(a, b, margin){
 console.log(closeCompare(4,5)) //-1
 console.log(closeCompare(5,5)) //0
 console.log(closeCompare(6,5)) //1
+console.log(closeCompare(-6, -5)) -1
