@@ -32,9 +32,24 @@ This is because the distance between a and b is greater than 0, and a is less th
 */
 
 //write out function
-function closeCompare(a, b, margin){
-    
+function closeCompare(a, b, margin) {
+    if (!margin) {
+      //When a is lower than b, return -1.
+      if (a < b) return -1;
+      //When a is higher than b, return 1.
+      if (a > b) return 1;
+      // for a === b return should be 0.
+      if (a === b) return 0;
+    } else {
+      //When a is close to b, return 0 | close to ==> margin >= a - b
+      if (margin >= Math.abs(a - b) || a === b) return 0;
+      if (a < b) return -1;
+      if (a > b) return 1;
+    }
+  
+    // margin >= 0, if not provided margin === 0
 }
+  
 //test cases
 console.log(closeCompare(4,5)) //-1
 console.log(closeCompare(5,5)) //0
