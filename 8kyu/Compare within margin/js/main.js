@@ -22,4 +22,7 @@ Tip: Some languages have a way to make parameters optional.
 
 Example 1
 If a = 3, b = 5, and margin = 3, then close_compare(a, b, margin) should return 0.
+This is because a and b are no more than 3 numbers apart.
+
+
 */
