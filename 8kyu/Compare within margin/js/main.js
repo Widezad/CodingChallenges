@@ -17,4 +17,6 @@ When a is greater than b, return 1.
 If margin is not given, treat it as zero.
 
 Assume: margin >= 0
+
+Tip: Some languages have a way to make parameters optional.
 */
