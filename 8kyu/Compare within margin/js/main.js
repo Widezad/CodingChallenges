@@ -32,3 +32,5 @@ This is because the distance between a and b is greater than 0, and a is less th
 */
 
 //write out function
+
+//test cases
