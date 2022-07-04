@@ -36,3 +36,4 @@ function closeCompare(a, b, margin){
     // ...
 }
 //test cases
+console.log(closeCompare(4,5)) //-1
