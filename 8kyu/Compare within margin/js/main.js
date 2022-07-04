@@ -28,4 +28,5 @@ This is because a and b are no more than 3 numbers apart.
 Example 2
 If a = 3, b = 5, and margin = 0, then close_compare(a, b, margin)
 should return -1.
+This is because the distance between a and b is greater than 0, and a is less than b.
 */
