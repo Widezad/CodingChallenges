@@ -8,5 +8,6 @@ name array in test cases will vary.
 Example:
 
 sayHello(['John', 'Smith'], 'Phoenix', 'Arizona')
-This example will return the string Hello, John Smith! Welcome to Phoenix, Arizona!
+This example will return the string Hello, John Smith! Welcome 
+to Phoenix, Arizona!
 */
