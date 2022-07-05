@@ -14,7 +14,8 @@ to Phoenix, Arizona!
 
 //write function
 function sayHello( name, city, state ) {
-    return `Hello ${name}, ${city}, ${state}`
+    let s = `Hello ${name}, ${city}, ${state}`
+    return s
 }
 
 //test cases
