@@ -13,9 +13,8 @@ to Phoenix, Arizona!
 */
 
 //write function
-function sayHello( name, city, state ) {
-    let s = `Hello ${name}, ${city}, ${state}`
-    return s
+function sayHello(name, city, state) {
+    return `Hello, ${name.join(' ')}! Welcome to ${city}, ${state}!`;
 }
 
 //test cases
