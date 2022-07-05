@@ -13,6 +13,8 @@ to Phoenix, Arizona!
 */
 
 //write function
+function sayHello( name, city, state ) {
+}
 
 //test cases
 
