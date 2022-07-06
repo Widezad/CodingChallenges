@@ -27,3 +27,4 @@ function correctTail(bod, tail ;
 
 //test cases
 console.log(correctTail("Fox", "x")) //true
+console.log(correctTail("Rhino", "o")) //true
