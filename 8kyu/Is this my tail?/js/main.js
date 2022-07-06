@@ -25,7 +25,7 @@ function correctTail(bod, tail ;
     return false
 */
 
-function correctTail(bod, tail) ;
+function correctTail(bod, tail) {;
   
     sub = body.substr(bodylength-(tail.length)
     
