@@ -24,3 +24,5 @@ function correctTail(bod, tail ;
   else 
     return false
 */
+
+//test cases
