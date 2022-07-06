@@ -8,14 +8,10 @@ If there are no good ideas, as is often the case, return 'Fail!'.
 */
 
 //write out function
-function well(x) {
-    //conditional
-     if(x.includes('good')) {
-         return 'publish'
-    }
-    else if(x.includes(!'good')) {
-        return 'fail'
-    }
+const well = x => {
+    const good_count = x.filter(x => x == 'good').length;
+    return good_count < 1 ? 'Fail!' : 
+           good_count < 3 ? 'Publish!' : 'I smell a series!';
 }
 
 //test cases
