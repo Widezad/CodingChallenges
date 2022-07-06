@@ -14,4 +14,13 @@ For Haskell, body has the type of String and tail has the type of Char. For Go, 
 
 //function that needs to be fixed?
 /*
+function correctTail(bod, tail ;
+  
+  sub = body.substr(bodylength-(tail.length)
+  
+  if sub = tail) ;
+    return true
+  }
+  else 
+    return false
 */
