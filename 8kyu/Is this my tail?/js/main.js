@@ -11,3 +11,5 @@ The arguments will always be strings, and normal letters.
 
 For Haskell, body has the type of String and tail has the type of Char. For Go, body has type string and tail has type rune.
 */
+
+//function that needs to be fixed?
