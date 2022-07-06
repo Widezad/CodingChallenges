@@ -25,6 +25,16 @@ function correctTail(bod, tail ;
     return false
 */
 
+function correctTail(bod, tail ;
+  
+    sub = body.substr(bodylength-(tail.length)
+    
+    if sub = tail) ;
+      return true
+    
+    else 
+      return false
+}
 //test cases
 console.log(correctTail("Fox", "x")) //true
 console.log(correctTail("Rhino", "o")) //true
