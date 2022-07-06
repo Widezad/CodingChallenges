@@ -10,6 +10,12 @@ If there are no good ideas, as is often the case, return 'Fail!'.
 //write out function
 function well(x) {
     //conditional
+     if(x.includes('good')) {
+         return 'publish'
+    }
+    else if(x.includes(!'good')) {
+        return 'fail'
+    }
 }
 
 //test cases
