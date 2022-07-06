@@ -27,7 +27,7 @@ function correctTail(bod, tail ;
 
 function correctTail(bod, tail) {
   
-    let sub = bod.substr(bodylength-(tail.length)
+    let sub = bod.substr(bodylength-(tail.length))
     
     if (sub = tail) 
       return true
