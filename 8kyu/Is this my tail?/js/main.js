@@ -26,3 +26,4 @@ function correctTail(bod, tail ;
 */
 
 //test cases
+console.log(correctTail("Fox", "x")) //true
