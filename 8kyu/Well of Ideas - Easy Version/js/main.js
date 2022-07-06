@@ -14,3 +14,5 @@ function well(x) {
 
 //test cases
 console.log(well(['bad', 'bad', 'bad'])) //'fail'
+console.log(well(['good', 'bad', 'bad', 'bad', 'bad'])) //'Publish!'
+console.log(well(['good', 'bad', 'bad', 'bad', 'bad', 'good', 'bad', 'bad', 'good'])) //' I smell a series!'
