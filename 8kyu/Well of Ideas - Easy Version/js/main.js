@@ -9,7 +9,8 @@ If there are no good ideas, as is often the case, return 'Fail!'.
 
 //write out function
 function well(x) {
-    
+
 }
 
 //test cases
+console.logg(well(['bad', 'bad', 'bad'])) //'fail'
