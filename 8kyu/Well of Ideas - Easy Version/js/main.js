@@ -13,4 +13,4 @@ function well(x) {
 }
 
 //test cases
-console.logg(well(['bad', 'bad', 'bad'])) //'fail'
+console.log(well(['bad', 'bad', 'bad'])) //'fail'
