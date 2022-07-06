@@ -8,4 +8,6 @@ argument (tail), is the same as the last letter of the first argument
 If the tail is right return true, else return false.
 
 The arguments will always be strings, and normal letters.
+
+For Haskell, body has the type of String and tail has the type of Char. For Go, body has type string and tail has type rune.
 */
