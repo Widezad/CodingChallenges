@@ -5,6 +5,7 @@ positive integer n.
 
 //function
 function nearestSq(n) {
-    
+
 }
 //test cases
+console.log(nearestSq(1)) //1
