@@ -4,5 +4,7 @@ positive integer n.
 */
 
 //function
-
+function nearestSq(n) {
+    
+}
 //test cases
