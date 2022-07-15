@@ -8,4 +8,6 @@ in the array with the index N. If N is outside of the array, then
 return -1. Don't forget that the first element has the index 0.
 
 Let's look at a few examples:
+
+array = [1, 2, 3] and N = 3, but N is outside of the array, so the result is -1.
 */
