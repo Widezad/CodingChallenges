@@ -8,3 +8,5 @@ specific given number of dragons, will he survive?
 
 Return True if yes, False otherwise :)
 */
+
+//function name and para
