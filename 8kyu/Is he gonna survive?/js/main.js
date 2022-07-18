@@ -15,3 +15,4 @@ function hero(bullets, dragons){
 }
 
 //console logs
+console.log(hero(10,5)) //true
