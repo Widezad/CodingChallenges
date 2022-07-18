@@ -10,6 +10,8 @@ Return True if yes, False otherwise :)
 */
 
 //function name and para
-
+function hero(bullets, dragons){
+    //Get Coding!
+}
 
 //console logs
