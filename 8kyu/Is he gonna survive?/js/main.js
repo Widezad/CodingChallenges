@@ -11,7 +11,7 @@ Return True if yes, False otherwise :)
 
 //function name and para
 function hero(bullets, dragons){
-   if(bullets > dragons * 2) {
+   if(bullets * 2 > dragons) {
        return true
    }
    else {
