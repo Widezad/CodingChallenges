@@ -17,4 +17,4 @@ function hero(bullets, dragons){
 //console logs
 console.log(hero(10,5)) //true
 console.log(hero(7,4)) //false
-console.log(hero(4,5))
+console.log(hero(4,5)) //false
