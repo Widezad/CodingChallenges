@@ -19,9 +19,12 @@ function greet(name){
 */
 
 function greet(name){
-    return "Hello, " + name + "!";
-    if(name === "Johnny")
-      return "Hello, my love!";
+   if(name === 'Johny') {
+       return 'Hello, my love!'
+   }
+   else{
+       return `Hello, ${name}`
+   }
 }
 console.log(greet("Jim")) //"Hello, Jim!"
 console.log(greet("Jane"))//"Hello, Jane!"
