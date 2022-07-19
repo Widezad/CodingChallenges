@@ -19,7 +19,7 @@ function greet(name){
 */
 
 function greet(name){
-   if(name === 'Johny') {
+   if(name === 'Johnny') {
        return 'Hello, my love!'
    }
    else{
