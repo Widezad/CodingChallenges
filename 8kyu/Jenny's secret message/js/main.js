@@ -23,7 +23,7 @@ function greet(name){
        return 'Hello, my love!'
    }
    else{
-       return `Hello, ${name}`
+       return `Hello, ${name}!`
    }
 }
 console.log(greet("Jim")) //"Hello, Jim!"
