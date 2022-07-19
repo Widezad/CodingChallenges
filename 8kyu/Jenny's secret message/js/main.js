@@ -23,3 +23,4 @@ function greet(name){
     if(name === "Johnny")
       return "Hello, my love!";
 }
+console.log(greet("Jim")) //"Hello Jim!"
