@@ -19,5 +19,7 @@ NOTE
 */
 
 //function
-
+function playerRankUp(points) {
+    
+}
 //test cases
