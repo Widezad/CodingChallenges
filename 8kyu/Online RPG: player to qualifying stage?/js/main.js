@@ -20,6 +20,7 @@ NOTE
 
 //function
 function playerRankUp(points) {
-    
+
 }
 //test cases
+console.log(playerRankUp(64)) //false
