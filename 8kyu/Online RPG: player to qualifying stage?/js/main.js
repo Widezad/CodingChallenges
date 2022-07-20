@@ -3,7 +3,8 @@ DESCRIPTION:
 Let's imagine we have a popular online RPG. A player begins with a score of
 0 in class E5. A1 is the highest level a player can achieve.
 
-Now let's say the players wants to rank up to class E4. To do so the player needs to achieve at least 100 points to enter the qualifying stage.
+Now let's say the players wants to rank up to class E4. To do so the player 
+needs to achieve at least 100 points to enter the qualifying stage.
 
 Write a script that will check to see if the player has achieved at least 100 points in his class. If so, he enters the qualifying stage.
 
