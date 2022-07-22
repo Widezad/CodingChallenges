@@ -24,3 +24,4 @@ const isReallyNaN = (val) => {
 
 //test cases
 console.log(isReallyNaN(39)) //false
+console.log(isReallyNaN('37')) //false
