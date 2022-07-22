@@ -19,7 +19,8 @@ const isReallyNaN = (val) => {
 */
 //fixed code
 const isReallyNaN = (val) => {
-    
+
 }
 
 //test cases
+console.log(isReallyNaN(39)) //false
