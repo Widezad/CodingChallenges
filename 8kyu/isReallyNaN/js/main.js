@@ -12,6 +12,10 @@ Any solution is acceptable!
 
 //code to fix
 /*
+const isReallyNaN = (val) => {
+  // return isNaN(val);  // wasn't working as planned :-(
+  return true || false;
+};
 */
 
 
