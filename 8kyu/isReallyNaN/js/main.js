@@ -19,11 +19,11 @@ const isReallyNaN = (val) => {
 */
 //fixed code
 const isReallyNaN = (val) => {
-    if(NaN) {
+    if(isNaN(val)) {
         return true
     }
     else {
-        return false
+         return false
     }
 }
 
