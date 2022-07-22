@@ -17,6 +17,6 @@ const isReallyNaN = (val) => {
   return true || false;
 };
 */
-
+//fixed code
 
 //test cases
