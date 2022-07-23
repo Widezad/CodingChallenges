@@ -13,6 +13,7 @@ number is a Wilson prime.
 
 //function
 function amIWilson(p) {
-    
+
 }
 //test cases
+console.log(amIWilson(5)) //true
