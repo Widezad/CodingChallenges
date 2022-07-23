@@ -17,3 +17,4 @@ function amIWilson(p) {
 }
 //test cases
 console.log(amIWilson(5)) //true
+console.log(amIWilson(9)) //false
