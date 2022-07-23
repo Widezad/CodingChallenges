@@ -1,3 +1,4 @@
 /*
-Wilson primes satisfy the following condition. Let P represent a prime number.
+Wilson primes satisfy the following condition. Let P represent a 
+prime number.
 */
