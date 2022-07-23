@@ -10,3 +10,5 @@ should give a whole number.
 Your task is to create a function that returns true if the given 
 number is a Wilson prime.
 */
+
+//function
