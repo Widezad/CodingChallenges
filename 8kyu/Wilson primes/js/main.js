@@ -13,14 +13,7 @@ number is a Wilson prime.
 
 //function
 
-function amIWilson(P) {
-    return (factorial(P-1) + 1) / Math.pow(P, 2) % 1 === 0;
-}
-  
-  function factorial(n) {
-    if  (n == 0) return 1
-    else return n * factorial(n-1);
-}
+const amIWilson = p => [5, 13, 563].indexOf(p) > -1
 //test cases
 console.log(amIWilson(5)) //true
 console.log(amIWilson(9)) //false
