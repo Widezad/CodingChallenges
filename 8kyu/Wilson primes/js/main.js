@@ -12,5 +12,7 @@ number is a Wilson prime.
 */
 
 //function
-
+function amIWilson(p) {
+    
+}
 //test cases
