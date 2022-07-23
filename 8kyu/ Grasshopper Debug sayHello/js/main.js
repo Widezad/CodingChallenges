@@ -24,9 +24,12 @@ function sayHello(name) {
     //Use template literals to plug in name parameter
     return `Hello, ${name}`
 }
-//test cases
-console.log(sayHello('Mr. Spock')) // 'Hello, Mr, Spock'
-console.log(sayHello('Captain. Kirk')) // 'Hello, Captain Kirk'
 
-//Refactored
-const sayHello = (name) => `Hello, ${name}`
+
+function solution(s1, s2) {
+   let sub2 = s2.substr(s2.indexOf(s2))
+   let sub1 = s1.substr(0,s1.indexOf(s1))
+   return sub1 + sub2
+}
+console.log(solution("dce", "cccbd"))
+console.log(solution("super","tower"))
