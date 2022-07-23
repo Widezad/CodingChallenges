@@ -12,17 +12,14 @@ number is a Wilson prime.
 */
 
 //function
-function amIWilson(p) {
-    const factorial = (n)=>{
-      if (n < 0) return -1
-      if (n === 0) return 1
+
+function amIWilson(P) {
+    return (factorial(P-1) + 1) / Math.pow(P, 2) % 1 === 0;
+}
   
-      return n * factorial(n - 1)
-    }
-  
-    if( ((factorial(p-1) + 1) % (p * p)) == 0) return true
-  
-    return false
+  function factorial(n) {
+    if  (n == 0) return 1
+    else return n * factorial(n-1);
 }
 //test cases
 console.log(amIWilson(5)) //true
