@@ -14,3 +14,4 @@ const quarterOf = (month) => {
 //test cases
 console.log(quarterOf(3)) //1
 console.log(quarterOf(8)) //3
+console.log(quarterOf(11)) //4
