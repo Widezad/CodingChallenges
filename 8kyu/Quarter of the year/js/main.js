@@ -8,5 +8,7 @@ month 6 (June), is part of the second quarter; and month 11
 */
 
 //function
-
+const quarterOf = (month) => {
+    
+}
 //test cases
