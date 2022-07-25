@@ -7,5 +7,7 @@ Ouput :: "Position of alphabet: 1"
 */
 
 //function
-
+function position(letter) {
+    
+}
 //test cases
