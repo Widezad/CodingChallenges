@@ -12,3 +12,4 @@ function position(letter) {
 }
 //test cases
 console.log(position("a")) //"Position of alphabet: 1"
+console.log(position("z")) //"Position of alphabet: 26"
