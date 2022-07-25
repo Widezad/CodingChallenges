@@ -21,6 +21,7 @@ element, return 0.
 
 //function
 function sumArray(array) {
-    
+
 }
 //test cases
+console.log(sumArray(null)) //0
