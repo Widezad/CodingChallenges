@@ -7,3 +7,5 @@ Ouput :: "Position of alphabet: 1"
 */
 
 //function
+
+//ctest cases
