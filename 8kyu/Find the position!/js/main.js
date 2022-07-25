@@ -5,3 +5,5 @@ Input :: "a"
 
 Ouput :: "Position of alphabet: 1"
 */
+
+//function
