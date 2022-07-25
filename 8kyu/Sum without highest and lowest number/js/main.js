@@ -20,6 +20,7 @@ element, return 0.
 */
 
 //function
-
-
+function sumArray(array) {
+    
+}
 //test cases
