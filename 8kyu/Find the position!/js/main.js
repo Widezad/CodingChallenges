@@ -8,7 +8,7 @@ Ouput :: "Position of alphabet: 1"
 
 //function
 function position(letter) {
-
+    return "Position of alphabet: " + ((letter.charCodeAt(0)-97) + 1);
 }
 //test cases
 console.log(position("a")) //"Position of alphabet: 1"
