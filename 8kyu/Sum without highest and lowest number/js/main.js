@@ -21,7 +21,7 @@ element, return 0.
 
 //function
 function sumArray(array) {
-    if(array === null || array === '') {
+    if(array === null || array === []) {
         return 0
     }
 }
