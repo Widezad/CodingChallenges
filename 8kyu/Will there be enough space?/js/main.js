@@ -26,7 +26,7 @@ waiting
 //function
 function enough(cap, on, wait) {
     if(on + wait >= cap) {
-        return 
+        return Math.max(wait + on - cap)
     }
     else {
         return 0
