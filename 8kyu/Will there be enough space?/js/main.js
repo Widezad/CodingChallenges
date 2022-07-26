@@ -25,7 +25,9 @@ waiting
 
 //function
 function enough(cap, on, wait) {
-
+    if(on + wait <= cap) {
+        return 0
+    }
 }
 //test cases
 console.log(enough(10,5,5)) //0
