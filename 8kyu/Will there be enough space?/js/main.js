@@ -25,6 +25,7 @@ waiting
 
 //function
 function enough(cap, on, wait) {
-    
+
 }
 //test cases
+console.log(enough(10,5,5)) //0
