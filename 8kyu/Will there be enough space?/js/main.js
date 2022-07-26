@@ -24,5 +24,7 @@ waiting
 */
 
 //function
-
+function enough(cap, on, wait) {
+    
+}
 //test cases
