@@ -29,3 +29,4 @@ function enough(cap, on, wait) {
 }
 //test cases
 console.log(enough(10,5,5)) //0
+console.log(enough(100, 60, 50)) //10
