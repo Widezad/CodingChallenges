@@ -26,7 +26,7 @@ waiting
 //function
 function enough(cap, on, wait) {
     if(on + wait >= cap) {
-        return on - wait
+        return 
     }
     else {
         return 0
