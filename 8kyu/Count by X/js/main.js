@@ -14,8 +14,9 @@ countBy(2,5) === [2,4,6,8,10]
 //function
 function countBy(x, n) {
     let z = [];
-  
-    return z;
+    if(z.includes(x && n)) {
+        return z
+    }
 }
 //test cases
 console.log(countBy(1,10), [1,2,3,4,5,6,7,8,9,10]) //"Array does not match"
