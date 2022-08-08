@@ -18,3 +18,4 @@ function countBy(x, n) {
     return z;
 }
 //test cases
+console.log(countBy(1,10), [1,2,3,4,5,6,7,8,9,10]) //"Array does not match"
