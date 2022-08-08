@@ -12,3 +12,5 @@ countBy(2,5) === [2,4,6,8,10]
 */
 
 //function
+
+//test cases
