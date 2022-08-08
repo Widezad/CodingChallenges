@@ -12,5 +12,9 @@ countBy(2,5) === [2,4,6,8,10]
 */
 
 //function
-
+function countBy(x, n) {
+    let z = [];
+  
+    return z;
+}
 //test cases
