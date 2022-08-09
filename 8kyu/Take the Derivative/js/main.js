@@ -25,3 +25,5 @@ The exponent will never be 1, and neither number will ever be 0
 */
 
 //function
+
+//test cases
