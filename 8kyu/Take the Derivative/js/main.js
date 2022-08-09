@@ -26,7 +26,7 @@ The exponent will never be 1, and neither number will ever be 0
 
 //function
 function derive(coefficient,exponent) {
-  `${coefficient * exponent}x^${exponent - 1}`
+  return `${coefficient * exponent}x^${exponent - 1}`
 }
 //test cases
 console.log(derive(7,8)) //"56x^7"
