@@ -29,3 +29,4 @@ function derive(coefficient,exponent) {
   
 }
 //test cases
+console.log(derive(7,8)) //"56x^7"
