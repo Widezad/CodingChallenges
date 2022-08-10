@@ -10,3 +10,5 @@ Example(Input --> Output)
 
 The input will not be 0.
 */
+
+//function
