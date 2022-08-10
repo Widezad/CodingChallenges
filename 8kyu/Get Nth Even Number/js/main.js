@@ -13,10 +13,7 @@ The input will not be 0.
 
 //function
 function nthEven(n){
-    if(n % 2) {
-        return n * 2
-    }
-    
+    return n * 2 - 2   
 }
 //test cases
 console.log(nthEven(1)) //0
