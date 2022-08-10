@@ -13,9 +13,11 @@ The input will not be 0.
 
 //function
 function nthEven(n){
+    let result;
     for(let i = 0; i <= n; i++) {
-        i * 2
+        result.push((i * 2))
     }
+    return result
 }
 //test cases
 console.log(nthEven(1)) //0
