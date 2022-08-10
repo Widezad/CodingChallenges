@@ -16,3 +16,4 @@ function nthEven(n){
     // your code here
 }
 //test cases
+console.log(nthEven(1)) //0
