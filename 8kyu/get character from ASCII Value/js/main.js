@@ -14,7 +14,7 @@ For ASCII table, you can refer to http://www.asciitable.com/
 
 //function
 function getChar(c){
-    // ...
+    
 }
 //test cases
 console.log(getChar(55)) //'7'
