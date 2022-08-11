@@ -10,6 +10,6 @@ should return:
 
 'A'
 For ASCII table, you can refer to http://www.asciitable.com/
-
-
 */
+
+//function
