@@ -20,3 +20,4 @@ function getChar(c){
 console.log(getChar(55)) //'7'
 console.log(getChar(56)) //'8'
 console.log(getChar(57)) //'9'
+console.log(getChar(58)) //':'
