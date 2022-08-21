@@ -4,3 +4,6 @@ Note: Empty array should return 0
 */ 
 
 //Write function
+
+
+//Console
