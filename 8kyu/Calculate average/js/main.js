@@ -7,3 +7,4 @@ Note: Empty array should return 0
 
 
 //Console
+console.log(findAverage([1,1,1])) //1
