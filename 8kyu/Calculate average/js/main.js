@@ -4,7 +4,9 @@ Note: Empty array should return 0
 */ 
 
 //Write function
-
+function findAverage(array) {
+    
+}
 
 //Console
 console.log(findAverage([1,1,1])) //1
