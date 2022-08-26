@@ -5,7 +5,7 @@ Note: Empty array should return 0
 
 //Write function
 function findAverage(array) {
-    
+    return 0
 }
 
 //Console
