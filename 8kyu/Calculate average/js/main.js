@@ -8,7 +8,7 @@ function findAverage(array) {
     if(array === "") {
         return 0
     }else {
-        return array.reduce((a,b) => a + b, 0)
+        return array.reduce((a,b) => a + b)
     }
 }
 
