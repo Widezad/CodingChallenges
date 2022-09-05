@@ -5,7 +5,7 @@ Note: Empty array should return 0
 
 //Write function
 function findAverage(array) {
-    if(array === null || array == NaN || array === undefined) {
+    if(array === null || array == NaN || array === undefined || array === 0) {
         return 0
     }else {
         return array.reduce((a,b) => a + b) / array.length
