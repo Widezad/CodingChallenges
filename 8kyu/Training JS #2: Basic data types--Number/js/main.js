@@ -18,7 +18,12 @@ code is working properly.
 
 In the end, click "Submit" to submit your code pass this kata.
 */
-
+let v1 = 50,
+    v2 = 100,
+    v3 = 150,
+    v4 = 200,
+    v5 = 2,
+    v6 = 250;
 
 //Test cases
 console.log(equal1(), 100) //"Value of a+b is noe equal to 100"
