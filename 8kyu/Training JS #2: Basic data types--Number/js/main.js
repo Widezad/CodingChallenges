@@ -22,3 +22,4 @@ In the end, click "Submit" to submit your code pass this kata.
 
 //Test cases
 console.log(equal1(), 100) //Value of a+b is noe equal to 100"
+console.log(equal2(), 100) // Value of a-b is noe equal to 100"
