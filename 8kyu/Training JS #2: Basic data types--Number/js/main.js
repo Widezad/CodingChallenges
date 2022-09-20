@@ -49,8 +49,8 @@ function equal2(){
 }
   
   function equal5(){
-    let a =  v5, //set number value to a
-        b =  v5; //set number value to b
+    let a =  v6, //set number value to a
+        b =  v2; //set number value to b
     return a % b;
 }
 //Test cases
