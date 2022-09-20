@@ -37,8 +37,8 @@ function equal2(){
 }
   
   function equal3(){
-    let a =  , //set number value to a
-        b =  ; //set number value to b
+    let a =  v3, //set number value to a
+        b =  v3; //set number value to b
     return a * b;
 }
   
