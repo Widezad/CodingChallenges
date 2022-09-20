@@ -12,4 +12,8 @@ has two local variables a,b, please set the appropriate value
 for the two variables(select from v1--v6), making these function
 return value equal to 100. the function equal1 is completed, 
 please refer to this example to complete the following functions.
+
+When you have finished the work, click "Run Tests" to see if your code is working properly.
+
+In the end, click "Submit" to submit your code pass this kata.
 */
