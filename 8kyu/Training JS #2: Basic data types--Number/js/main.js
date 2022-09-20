@@ -46,7 +46,7 @@ function equal2(){
     let a =  , //set number value to a
         b =  ; //set number value to b
     return a / b;
-  }
+}
   
   function equal5(){
     let a =  , //set number value to a
