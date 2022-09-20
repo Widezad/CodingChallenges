@@ -25,6 +25,11 @@ let v1 = 50,
     v5 = 2,
     v6 = 250;
 
+function equal1(){
+    let a = v1,   
+        b = v1;   
+    return a + b;
+}
 //Test cases
 console.log(equal1(), 100) //"Value of a+b is noe equal to 100"
 console.log(equal2(), 100) // "Value of a-b is noe equal to 100"
