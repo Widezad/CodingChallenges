@@ -30,6 +30,29 @@ function equal1(){
         b = v1;   
     return a + b;
 }
+function equal2(){
+    let a =  , //set number value to a
+        b =  ; //set number value to b
+    return a - b;
+  }
+  
+  function equal3(){
+    let a =  , //set number value to a
+        b =  ; //set number value to b
+    return a * b;
+  }
+  
+  function equal4(){
+    let a =  , //set number value to a
+        b =  ; //set number value to b
+    return a / b;
+  }
+  
+  function equal5(){
+    let a =  , //set number value to a
+        b =  ; //set number value to b
+    return a % b;
+  }
 //Test cases
 console.log(equal1(), 100) //"Value of a+b is noe equal to 100"
 console.log(equal2(), 100) // "Value of a-b is noe equal to 100"
