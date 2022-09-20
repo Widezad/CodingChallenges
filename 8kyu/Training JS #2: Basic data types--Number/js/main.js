@@ -31,20 +31,20 @@ function equal1(){
     return a + b;
 }
 function equal2(){
-    let a = v2, //set number value to a
-        b =  v2; //set number value to b
+    let a = v3, //set number value to a
+        b =  v1; //set number value to b
     return a - b;
 }
   
   function equal3(){
-    let a =  v3, //set number value to a
-        b =  v3; //set number value to b
+    let a =  v5, //set number value to a
+        b =  v1; //set number value to b
     return a * b;
 }
   
   function equal4(){
     let a =  v4, //set number value to a
-        b =  v4; //set number value to b
+        b =  v5; //set number value to b
     return a / b;
 }
   
@@ -57,5 +57,5 @@ function equal2(){
 console.log(equal1(), 100) //"Value of a+b is noe equal to 100"
 console.log(equal2(), 100) // "Value of a-b is noe equal to 100"
 console.log(equal3(), 100) // "Value of a*b is noe equal to 100"
-console.log(equal5(), 100) // "Value of a/b is noe equal to 100"
-console.log(equal6(), 100) // "Value of a%b is noe equal to 100"
+console.log(equal4(), 100) // "Value of a/b is noe equal to 100"
+console.log(equal5(), 100) // "Value of a%b is noe equal to 100"
