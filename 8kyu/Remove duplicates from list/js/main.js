@@ -1,5 +1,6 @@
 /*
 DESCRIPTION
 
-Define a function that removes duplicates from an array of numbers and returns it as a result.
+Define a function that removes duplicates from an array of 
+numbers and returns it as a result.
 */
