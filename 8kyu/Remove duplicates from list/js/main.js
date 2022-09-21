@@ -15,3 +15,4 @@ function distinct(a) {
 
 //Test cases 
 console.log(distinct([1])) //[1]
+console.log(distinct([1,2])) //[1,2]
