@@ -11,6 +11,11 @@ THe order of the sequence has to stay the same
 //Function
 function distinct(a) {
     let arr = []
+    return a.forEach((c) => {
+        if (!arr.includes(c)) {
+            arr.push(c)
+        }
+    })
 }
 
 //Test cases 
