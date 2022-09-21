@@ -13,7 +13,12 @@ function distinct(a) {
     let arr = []
 
     //Loop through the array values
-    
+    for(let i = 0; i < a.length; i++) {
+        if(arr.indexOf(arr[i] === -1)) {
+            arr.push(arr[i])
+        }
+    }
+    return arr
 }
 
 //Test cases 
