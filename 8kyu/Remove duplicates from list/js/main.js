@@ -10,7 +10,7 @@ THe order of the sequence has to stay the same
 
 //Function
 function distinct(a) {
-    return []
+    let arr = []
 }
 
 //Test cases 
