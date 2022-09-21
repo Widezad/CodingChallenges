@@ -11,6 +11,8 @@ THe order of the sequence has to stay the same
 //Define the function to get unique values from an array
 function distinct(a) {
     let arr = []
+
+    //Loop through the array values
     
 }
 
