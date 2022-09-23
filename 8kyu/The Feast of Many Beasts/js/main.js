@@ -18,7 +18,7 @@ or end of the string. They will not contain numerals.
 
 //Function
 function feast(beast, dish) {
-    if(beast.includes(dish.charAt[0])) {
+    if(beast.includes(dish[0])) {
         return true
     }
     else {
