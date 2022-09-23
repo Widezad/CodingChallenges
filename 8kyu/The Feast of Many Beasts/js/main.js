@@ -17,8 +17,8 @@ or end of the string. They will not contain numerals.
 */
 
 //Function
-function feast () {
-    
+function feast(beast, dish) {
+
 }
 //test cases
 console.log(feast("great blue heron", "garlic naan")) //true
