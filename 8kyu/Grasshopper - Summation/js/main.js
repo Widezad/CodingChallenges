@@ -18,7 +18,11 @@ summation(8) -> 36
 
 //Function
 const summaration = (num) => {
-    num.reduce((a,b) => a + b, 0)
+    let sum = 0;
+    for(let i = 1; i <= num; i++) {
+        sum += i
+    }
+    return sum
 }
 
 //Test cases
