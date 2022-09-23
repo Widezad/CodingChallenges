@@ -18,13 +18,9 @@ or end of the string. They will not contain numerals.
 
 //Function
 function feast(beast, dish) {
-    if( beast[0] === dish[0] && beast[beast.length - 1] ===
-    dish [dish.length - 1]) {
-        return true
-    }
-    else false
-    
+    return beast[0] === dish[0] && beast[beast.length - 1] === dish[dish.length - 1] ? true : false;
 }
+  
 //test cases
 console.log(feast("great blue heron", "garlic naan")) //true
 console.log(feast("chickadee", "chocolate cake")) //true
