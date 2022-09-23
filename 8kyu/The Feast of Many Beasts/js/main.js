@@ -18,7 +18,12 @@ or end of the string. They will not contain numerals.
 
 //Function
 function feast(beast, dish) {
-
+    if(beast.inchludes(dish.charAt(0))) {
+        return true
+    }
+    else {
+        false
+    }
 }
 //test cases
 console.log(feast("great blue heron", "garlic naan")) //true
