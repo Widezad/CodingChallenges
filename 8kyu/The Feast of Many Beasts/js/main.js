@@ -17,3 +17,4 @@ or end of the string. They will not contain numerals.
 */
 
 //test cases
+console.log(feast("great blue heron", "garlic naan")) //true
