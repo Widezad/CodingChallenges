@@ -15,3 +15,5 @@ each has at least two letters. beast and dish may contain
 hyphens and spaces, but these will not appear at the beginning 
 or end of the string. They will not contain numerals.
 */
+
+//test cases
