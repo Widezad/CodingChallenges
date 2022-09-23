@@ -17,8 +17,9 @@ summation(8) -> 36
 */
 
 //Function
-const summaration = (num) => num.reduce((a,b) => a + b)
-    
+const summaration = (num) => {
+    return num.reduce((a, b) => a + b)
+}
 
 //Test cases
 console.log(summaration(1)) //1
