@@ -17,3 +17,4 @@ summation(8) -> 36
 */
 
 //Test cases
+console.log(summaration(1)) //1
