@@ -17,7 +17,7 @@ summation(8) -> 36
 */
 
 //Function
-const summaration = (num) => {
+function summaration (num)  {
     let sum = 0;
     for(let i = 1; i <= num; i++) {
         sum += i
