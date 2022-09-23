@@ -16,6 +16,8 @@ hyphens and spaces, but these will not appear at the beginning
 or end of the string. They will not contain numerals.
 */
 
+//Function
+
 //test cases
 console.log(feast("great blue heron", "garlic naan")) //true
 console.log(feast("chickadee", "chocolate cake")) //true
