@@ -17,7 +17,9 @@ summation(8) -> 36
 */
 
 //Function
-
+const summaration = (num) => {
+    
+}
 //Test cases
 console.log(summaration(1)) //1
 console.log(summaration(8)) //36
