@@ -13,7 +13,15 @@ For example, when the input is green, output should be yellow.
 
 //function
 function updateLight(current) {
-
+    if(current === "green") {
+        return "yellow"
+    }
+    else if(current === "yellow") {
+        return "red"
+    }
+    else if(current === "red") {
+        return "green"
+    }
 }
 //Test cases
 console.log(updateLight("green")) //"yellow"
