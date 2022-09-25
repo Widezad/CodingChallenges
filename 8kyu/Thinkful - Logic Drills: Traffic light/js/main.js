@@ -12,5 +12,8 @@ For example, when the input is green, output should be yellow.
 */
 
 //function
+function updateLight(current) {
+    
+}
 
 //Test cases
