@@ -17,3 +17,4 @@ function updateLight(current) {
 }
 //Test cases
 console.log(updateLight("green")) //"yellow"
+console.log(updateLight("yellow")) //"red"
