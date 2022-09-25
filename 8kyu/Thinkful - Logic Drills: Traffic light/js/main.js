@@ -12,3 +12,5 @@ For example, when the input is green, output should be yellow.
 */
 
 //function
+
+//Test cases
