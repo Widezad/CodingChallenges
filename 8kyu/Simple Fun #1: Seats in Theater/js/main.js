@@ -56,7 +56,8 @@ Constraints: 1 ≤ col ≤ nCols.
 
 [input] integer row
 
-An integer, the row number of your own seat (with the front row having index 1).
+An integer, the row number of your own seat (with the front 
+row having index 1).
 
 Constraints: 1 ≤ row ≤ nRows.
 
