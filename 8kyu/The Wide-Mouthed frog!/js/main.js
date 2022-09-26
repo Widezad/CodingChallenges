@@ -24,3 +24,4 @@ function mouthSize(animal) {
 //test cases
 console.log(mouthSize("toucan")) // "wide"
 console.log(mouthSize("ant bear")) //"wide"
+console.log(mouthSize("alligator")) //"small"
