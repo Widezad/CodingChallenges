@@ -68,9 +68,7 @@ your column or to the left.
 
 //Function
 function seatsInTheater(nCols, nRows, col, row) {
-    let colsbehind = nCols - col + 1
-    let rowsbehind = nRows - row
-    return colsbehind * rowsbehind
+    return (nCols - col + 1) * (nRows - row)
 }
 
 //Test cases
