@@ -68,7 +68,8 @@ your column or to the left.
 
 //Function
 function seatsInTheater(nCols, nRows, col, row) {
-    
+
 }
 
 //Test cases
+console.log(seatsInTheater(16,11,5,3)) //96
