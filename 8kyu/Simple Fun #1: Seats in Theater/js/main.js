@@ -64,6 +64,4 @@ Constraints: 1 ≤ row ≤ nRows.
 [output] an integer
 The number of people who sit strictly behind you and in 
 your column or to the left.
-
-
 */
