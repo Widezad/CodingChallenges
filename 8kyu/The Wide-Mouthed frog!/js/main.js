@@ -16,3 +16,5 @@ corresponds to the animal encountered by the frog. If this one
 is an alligator (case-insensitive) return small otherwise return
 wide
 */
+
+//Function
