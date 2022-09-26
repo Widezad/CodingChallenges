@@ -67,5 +67,8 @@ your column or to the left.
 */
 
 //Function
+function seatsInTheater(nCols, nRows, col, row) {
+    
+}
 
 //Test cases
