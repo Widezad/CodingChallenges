@@ -73,3 +73,4 @@ function seatsInTheater(nCols, nRows, col, row) {
 
 //Test cases
 console.log(seatsInTheater(16,11,5,3)) //96
+console.log(seatsInTheater(1,1,1,)) //0
