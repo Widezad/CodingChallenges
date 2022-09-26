@@ -15,5 +15,6 @@ The main problem is your shyness: you're afraid that you'll end
 up blocking the view (even if only for a couple of seconds) of 
 all the people who sit behind you and in your column or the 
 columns to your left. To gain some courage, you decide to 
-calculate the number of such people and see if you can possibly make it to the exit without disturbing too many people.
+calculate the number of such people and see if you can possibly 
+make it to the exit without disturbing too many people.
 */
