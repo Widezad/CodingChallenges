@@ -25,7 +25,8 @@ behind you and in your column or to the left, assuming all
 seats are occupied.
 
 Example
-For nCols = 16, nRows = 11, col = 5 and row = 3, the output should be
+For nCols = 16, nRows = 11, col = 5 and row = 3, the output 
+should be
 
 seatsInTheater(nCols, nRows, col, row) === 96
 
