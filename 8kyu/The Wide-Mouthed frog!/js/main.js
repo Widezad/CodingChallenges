@@ -19,6 +19,7 @@ wide
 
 //Function
 function mouthSize(animal) {
-    
+
 }
 //test cases
+console.log(mouthSize("toucan")) // "wide"
