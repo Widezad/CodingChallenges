@@ -49,7 +49,8 @@ Constraints: 1 ≤ nRows ≤ 1000.
 
 [input] integer col
 
-An integer, the column number of your own seat (with the rightmost column having index 1).
+An integer, the column number of your own seat (with the 
+rightmost column having index 1).
 
 Constraints: 1 ≤ col ≤ nCols.
 
