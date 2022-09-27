@@ -17,7 +17,9 @@ divisible by 7 nor 5
 
 //Function
 function isDvisible(n,x,y) {
-
+    if(n / x && n / y) {
+        return true
+    }
 }
 //Test Cases
 console.log(isDvisible(3,3,4)) //false
