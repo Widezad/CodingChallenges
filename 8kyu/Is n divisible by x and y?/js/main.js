@@ -16,3 +16,5 @@ divisible by 7 nor 5
 */
 
 //Function
+
+//Test Cases
