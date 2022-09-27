@@ -20,6 +20,9 @@ function isDvisible(n,x,y) {
     if(n / x && n / y) {
         return true
     }
+    else {
+        return false
+    }
 }
 //Test Cases
 console.log(isDvisible(3,3,4)) //false
