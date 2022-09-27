@@ -23,3 +23,4 @@ function isDvisible(n,x,y) {
 console.log(isDvisible(3,3,4)) //false
 console.log(isDvisible(12,3,4)) //true
 console.log(isDvisible(8,3,4))//false
+console.log(isDvisible(48,3,4))//true
