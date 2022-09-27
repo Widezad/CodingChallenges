@@ -16,7 +16,7 @@ divisible by 7 nor 5
 */
 
 //Function
-function isDvisible(n,x,y) {
+function isDivisible(n,x,y) {
     if(n % x === 0 && n % y === 0) {
         return true
     }
@@ -25,7 +25,7 @@ function isDvisible(n,x,y) {
     }
 }
 //Test Cases
-console.log(isDvisible(3,3,4)) //false
-console.log(isDvisible(12,3,4)) //true
-console.log(isDvisible(8,3,4))//false
-console.log(isDvisible(48,3,4))//true
+console.log(isDivisible(3,3,4)) //false
+console.log(isDivisible(12,3,4)) //true
+console.log(isDivisible(8,3,4))//false
+console.log(isDivisible(48,3,4))//true
