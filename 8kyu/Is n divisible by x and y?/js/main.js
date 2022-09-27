@@ -17,7 +17,7 @@ divisible by 7 nor 5
 
 //Function
 function isDvisible(n,x,y) {
-    if(n / x && n / y) {
+    if(n / x && y) {
         return true
     }
     else {
