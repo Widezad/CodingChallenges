@@ -22,3 +22,4 @@ function isDvisible(n,x,y) {
 //Test Cases
 console.log(isDvisible(3,3,4)) //false
 console.log(isDvisible(12,3,4)) //true
+console.log(isDvisible(8,3,4))//false
