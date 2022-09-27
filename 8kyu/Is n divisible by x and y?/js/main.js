@@ -16,5 +16,7 @@ divisible by 7 nor 5
 */
 
 //Function
-
+function isDvisible(n,x,y) {
+    
+}
 //Test Cases
