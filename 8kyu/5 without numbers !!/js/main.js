@@ -11,7 +11,8 @@ Good luck :)
 
 //Fucntion
 function unusualFive() {
-    return 5;
+    let five = 'Seven'
+    return five.length
 }
 //Test Cases
 console.log(unusualFive()) //5
