@@ -14,3 +14,4 @@ function unusualFive() {
     return 5;
 }
 //Test Cases
+console.log(unusualFive()) //5
