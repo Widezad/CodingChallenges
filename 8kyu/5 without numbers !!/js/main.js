@@ -11,6 +11,6 @@ Good luck :)
 
 //Fucntion
 function unusualFive() {
-    
+    return 5;
 }
 //Test Cases
