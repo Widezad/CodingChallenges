@@ -10,5 +10,7 @@ Good luck :)
 */
 
 //Fucntion
-
+function unusualFive() {
+    
+}
 //Test Cases
