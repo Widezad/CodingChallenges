@@ -26,3 +26,4 @@ function checkAlive (health) {
     }
 }
 //Test Cases
+console.log(checkAlive(5)) //false
