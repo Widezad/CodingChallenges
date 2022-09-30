@@ -16,3 +16,5 @@ a whole number between -10 and 10.
 */
 
 //Function
+
+//Test Cases
