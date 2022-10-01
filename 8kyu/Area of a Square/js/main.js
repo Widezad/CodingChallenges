@@ -11,8 +11,8 @@ math.pi, etc)
 */
 
 //Function
-function squareArea () {
-    
+function squareArea (A) {
+
 }
 //Test Cases
 console.log(squareArea(2)) //1.62
