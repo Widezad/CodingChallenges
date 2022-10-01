@@ -13,3 +13,4 @@ math.pi, etc)
 //Function
 
 //Test Cases
+console.log(squareArea(2)) //1.62
