@@ -12,7 +12,7 @@ math.pi, etc)
 
 //Function
 function squareArea (A) {
-    return Math.pow(2 + A / Math.PI).toFixed(2)
+    return +Math.pow(2 + A / Math.PI).toFixed(2)
 }
 //Test Cases
 console.log(squareArea(2)) //1.62
