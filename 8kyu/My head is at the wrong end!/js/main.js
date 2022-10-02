@@ -19,7 +19,8 @@ Simples!
 
 //Function
 function fixTheMeerkat(arr) {
-    
+
 }
 
 //Test Cases
+console.log(fixTheMeerkat(["tail", "body", "head"])) //["Head", "body", "tail"]
