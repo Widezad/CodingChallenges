@@ -18,5 +18,8 @@ Simples!
 */
 
 //Function
+function fixTheMeerkat(arr) {
+    
+}
 
 //Test Cases
