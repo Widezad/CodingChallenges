@@ -26,3 +26,4 @@ function fixTheMeerkat(arr) {
 console.log(fixTheMeerkat(["tail", "body", "head"])) //["Head", "body", "tail"]
 console.log(fixTheMeerkat(["tails", "body", "heads"])) //["heads", "body", "tails"]
 console.log(fixTheMeerkat(["bottom", "middle", "top"])) //["top", "middle", "bottom"]
+console.log(fixTheMeerkat(["lowe legs", "torso", "upper legs"])) //["upper legs", "torso", "lower legs"]
