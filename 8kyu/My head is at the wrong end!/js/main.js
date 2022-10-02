@@ -19,7 +19,7 @@ Simples!
 
 //Function
 function fixTheMeerkat(arr) {
-    return arr.split("")
+    return arr.reverse('')
 
 }
 
