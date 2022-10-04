@@ -9,7 +9,7 @@ can you fix timmy's function?
 //FUnction
 function evalObject(value){
     let result = 0;
-    switch(value.operation){
+    switch(value){
       case'+': result = value.a + value.b;
       case'-': result = value.a - value.b;
       case'/': result = value.a / value.b;
