@@ -28,10 +28,10 @@ function DNAtoRNA(dna) {
         return "U"
     }
     else if(dna === "G") {
-        return dna
+        return "G"
     }
     else if(dna === "C") {
-    return dna
+    return "C"
     }
 
 }
