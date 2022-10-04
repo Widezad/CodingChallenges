@@ -28,3 +28,4 @@ function DNAtoRNA(dna) {
 }
 //Test Cases
 console.log(DNAtoRNA("TTTT")) //"UUUU"
+console.log(DNAtoRNA("GCAT")) //"GCAU"
