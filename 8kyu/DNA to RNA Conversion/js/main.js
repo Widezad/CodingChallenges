@@ -24,6 +24,7 @@ input string will only ever consist of 'G', 'C', 'A' and/or 'T'.
 
 //Function
 function DNAtoRNA(dna) {
-    
+
 }
 //Test Cases
+console.log(DNAtoRNA("TTTT")) //"UUUU"
