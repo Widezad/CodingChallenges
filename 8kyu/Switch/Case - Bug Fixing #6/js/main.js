@@ -20,3 +20,4 @@ function evalObject(value){
     return result;
 }
 //Test Cases
+console.log(evalObject({a:1,b:1,operation:'+'})) //2 
