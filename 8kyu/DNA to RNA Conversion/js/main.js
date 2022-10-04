@@ -24,6 +24,15 @@ input string will only ever consist of 'G', 'C', 'A' and/or 'T'.
 
 //Function
 function DNAtoRNA(dna) {
+    if(dna === "T") {
+        return "U"
+    }
+    else if(dna === "G") {
+        return dna
+    }
+    else if(dna === "C") {
+    return dna
+    }
 
 }
 //Test Cases
