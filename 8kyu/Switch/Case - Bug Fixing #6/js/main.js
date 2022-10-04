@@ -15,7 +15,7 @@ function evalObject(value){
       case'/': return value.a / value.b;
       case'*': return value.a * value.b;
       case'%': return value.a % value.b;
-      case'^': result = Math.pow(value.a, value.b);
+      case'^': return Math.pow(value.a, value.b);
     }
     return result;
 }
