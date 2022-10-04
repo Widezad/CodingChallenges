@@ -12,4 +12,6 @@ and contains no Thymine. In RNA Thymine is replaced by another
 nucleic acid Uracil ('U').
 
 Create a function which translates a given DNA strings into RNA
+
+For example:
 */
