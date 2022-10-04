@@ -10,7 +10,7 @@ can you fix timmy's function?
 function evalObject(value){
     let result = 0;
     switch(value.operation){
-      case'+': result = value.a + value.b;
+      case'+': return  value.a + value.b;
       case'-': result = value.a - value.b;
       case'/': result = value.a / value.b;
       case'*': result = value.a * value.b;
