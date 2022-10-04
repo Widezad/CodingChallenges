@@ -21,3 +21,4 @@ function evalObject(value){
 }
 //Test Cases
 console.log(evalObject({a:1,b:1,operation:'+'})) //2 
+console.log(evalObject({a:1,b:1,operation:'-'})) //0
