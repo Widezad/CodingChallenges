@@ -23,3 +23,4 @@ function evalObject(value){
 console.log(evalObject({a:1,b:1,operation:'+'})) //2 
 console.log(evalObject({a:1,b:1,operation:'-'})) //0
 console.log(evalObject({a:1,b:1,operation:'/'})) //1
+console.log(evalObject({a:1,b:1,operation:'*'})) //1
