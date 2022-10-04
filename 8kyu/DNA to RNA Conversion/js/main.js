@@ -23,3 +23,5 @@ input string will only ever consist of 'G', 'C', 'A' and/or 'T'.
 */
 
 //Function
+
+//Test Cases
