@@ -24,16 +24,15 @@ input string will only ever consist of 'G', 'C', 'A' and/or 'T'.
 
 //Function
 function DNAtoRNA(dna) {
-    if(dna === "T") {
-        return "U"
+    let str = '';
+    for (let i = 0; i < dna.length; i++){
+      if (dna[i] == 'T'){
+      str += 'U';
+      } else {
+      str += dna[i];
+      }
     }
-    else if(dna === "G") {
-        return "G"
-    }
-    else if(dna === "C") {
-    return "C"
-    }
-
+    return str;
 }
 //Test Cases
 console.log(DNAtoRNA("TTTT")) //"UUUU"
