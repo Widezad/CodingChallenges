@@ -9,4 +9,6 @@ The function should take three arguments - operation
 
 The function should return result of numbers after applying the 
 chosen operation.
+
+Examples(Operator, value1, value2) --> output
 */
