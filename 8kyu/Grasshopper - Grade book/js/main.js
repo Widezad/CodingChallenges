@@ -40,3 +40,5 @@ console.log(getGrade(60, 82, 76)) // 'C'
 console.log(getGrade(65,70,59)) // 'D'
 console.log(getGrade(66,62,68)) // 'D'
 console.log(getGrade(58,62,70)) // 'D'
+
+console.log(getGrade(44, 55, 52)) // 'F'
