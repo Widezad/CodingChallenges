@@ -26,3 +26,4 @@ function getGrade(s1, s2, s3) {
 //Test Cases
 console.log(getGrade(95, 90, 93)) // 'A'
 console.log(getGrade(100, 85, 96)) //'A'
+console.log(getGrade(92,93,94)) //'A'
