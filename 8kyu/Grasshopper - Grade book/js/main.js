@@ -21,8 +21,11 @@ check for negative values or values greater than 100.
 
 //Fucntion
 function getGrade(s1, s2, s3) {
-    if(s1 + s2 + s3 <= 100) {
+    if(s1 + s2 + s3 <= 90 || 100) {
         return 'A'
+    }
+    else if(s1 + s2 + s3 <= 80 || 90) {
+        return 'B'
     }
 
 }
