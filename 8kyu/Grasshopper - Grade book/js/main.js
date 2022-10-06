@@ -21,6 +21,9 @@ check for negative values or values greater than 100.
 
 //Fucntion
 function getGrade(s1, s2, s3) {
+    if(s1 + s2 + s3 <= 100) {
+        return 'A'
+    }
 
 }
 //Test Cases
