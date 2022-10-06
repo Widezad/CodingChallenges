@@ -13,5 +13,5 @@ Numerical Score	                Letter Grade
 80 <= score < 90	            'B'
 70 <= score < 80	            'C'
 60 <= score < 70	            'D'
-0 <= score < 60
+0 <= score < 60                 'F'
 */
