@@ -26,4 +26,5 @@ function basicOp(operation, value1, value2) {
 //Test Cases
 console.log(basicOp('+', 4,7)) //11
 console.log(basicOp('-', 15, 18)) //-3
+console.log(basicOp('*', 5,5)) //25
 
