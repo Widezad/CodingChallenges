@@ -20,7 +20,9 @@ Examples(Operator, value1, value2) --> output
 
 //Function
 function basicOp(operation, value1, value2) {
-    
+
 }
 
 //Test Cases
+console.log(basicOp('+', 4,7)) //11
+
