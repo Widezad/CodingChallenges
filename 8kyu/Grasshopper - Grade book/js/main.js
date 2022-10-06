@@ -29,3 +29,4 @@ console.log(getGrade(100, 85, 96)) //'A'
 console.log(getGrade(92,93,94)) //'A'
 
 console.log(getGrade(70, 70, 70)) // 'B'
+console.log(getGrade(82,85,87)) //'B'
