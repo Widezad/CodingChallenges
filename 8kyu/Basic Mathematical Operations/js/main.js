@@ -17,3 +17,5 @@ Examples(Operator, value1, value2) --> output
 ('*', 5, 5) --> 25
 ('/', 49, 7) --> 7
 */
+
+//Function
