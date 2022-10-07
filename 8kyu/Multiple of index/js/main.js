@@ -14,5 +14,7 @@ Some Cases:
 */
 
 //Function
-
+function multipleOfIndex(array) {
+    // good luck
+}
 //Test Cases
