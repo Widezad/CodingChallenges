@@ -26,5 +26,7 @@ look at the sample tests.
 */
 
 //Function
-
+function multiTable(number) {
+    
+}
 //Test Cases
