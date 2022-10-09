@@ -25,13 +25,13 @@ trailing newline at the end. If you're unsure about the format,
 look at the sample tests.
 */
 
-//Function
-function multiTable(number) {
-    const result
-    for(let i = 1; i <=10; i++) {
-        return result = i * number
+function multiTable(n) {
+    let res = '';
+    for(let i = 1; i <= 10; i++){
+      res += `${i} * ${n} = ${i * n}`;
+      if(i < 10)  res +='\n';
     }
-    return (`${number} * ${i} = ${result}`)
+    return res;
 }
 //Test Cases
 console.log(multiTable(5)) //'1 * 5 = 5\n2 * 5 = 10\n3 * 5 = 15\n4 * 5 = 20\n5 * 5 = 25\n6 * 5 = 30\n7 * 5 = 35\n8 * 5 = 40\n9 * 5 = 45\n10 * 5 = 50'
