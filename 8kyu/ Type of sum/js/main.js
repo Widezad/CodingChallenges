@@ -10,3 +10,4 @@ function typeOfSum(a,b) {
 }
 //Test cases
 console.log(typeOfSum(12,1)) //'number'
+console.log(typeOfSum('d', 1)) //'string'
