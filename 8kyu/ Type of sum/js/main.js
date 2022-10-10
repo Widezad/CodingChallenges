@@ -6,7 +6,12 @@ Return the type of the sum of the two arguments
 
 //Function
 function typeOfSum(a,b) {
-
+    if(typeof a === 'string' || typeof b === 'string') {
+        return 'string'
+    }
+    else {
+        return 'number'
+    }
 }
 //Test cases
 console.log(typeOfSum(12,1)) //'number'
