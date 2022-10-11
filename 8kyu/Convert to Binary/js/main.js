@@ -12,5 +12,5 @@ to_binary(11) should return 1011
 
 Example:
 toBinary(1) should return 1
-
+toBinary(1) should return 101
 */
