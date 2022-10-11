@@ -23,3 +23,4 @@ function toBinary(n) {
 }
 
 //test cases
+console.log(toBinary(1)) //1
