@@ -19,7 +19,7 @@ toBinary(11) should return 1011
 */
 //function
 function toBinary(n) {
-    return n.toString(16)
+    return Number(n.toStrin(2))
 }
 
 //test cases
