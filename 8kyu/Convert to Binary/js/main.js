@@ -25,3 +25,4 @@ function toBinary(n) {
 //test cases
 console.log(toBinary(1)) //1
 console.log(toBinary(2)) //10
+console.log(toBinary(3)) //11
