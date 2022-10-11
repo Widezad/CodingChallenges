@@ -18,3 +18,4 @@ toBinary(11) should return 1011
 
 */
 //function
+//test cases
