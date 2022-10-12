@@ -12,5 +12,6 @@ the first one.
 If no occurence can be found, a count of 0 should be returned.
 
 ("Hello", "o") ==> 1
+("Hello", "l") ==> 2
 */
 
