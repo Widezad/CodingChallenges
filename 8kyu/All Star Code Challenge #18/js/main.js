@@ -17,6 +17,7 @@ If no occurence can be found, a count of 0 should be returned.
 
 Notes:
 The first argument can be an empty string
+The second string argument will always be of length 1
 */
 
 
