@@ -21,6 +21,9 @@ The second string argument will always be of length 1
 */
 
 //Function
+function strCount(str, letter) {
+    
+}
 
 //Test Cases
 
