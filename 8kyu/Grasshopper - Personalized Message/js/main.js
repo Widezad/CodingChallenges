@@ -13,6 +13,7 @@ otherwise                               'Hello guest'
 
 //Function
 function greet(name, owner) {
-    
+
 }
 //Test Cases
+console.log(greet('Daniel', 'Daniel')) // 'Hello boss'
