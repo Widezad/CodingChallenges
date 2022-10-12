@@ -7,4 +7,5 @@ two parameters: name and owner.
 Use conditionals to return the proper message:
 
 case                                    return
+name equals owner                       'Hello boss'
 */
