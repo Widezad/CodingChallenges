@@ -12,5 +12,7 @@ otherwise                               'Hello guest'
 */
 
 //Function
-
+function greet(name, owner) {
+    
+}
 //Test Cases
