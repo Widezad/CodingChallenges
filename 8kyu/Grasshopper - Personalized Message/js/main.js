@@ -17,3 +17,4 @@ function greet(name, owner) {
 }
 //Test Cases
 console.log(greet('Daniel', 'Daniel')) // 'Hello boss'
+console.log(greet('Greg', 'Daniel')) // 'Hello guest'
