@@ -16,6 +16,7 @@ If no occurence can be found, a count of 0 should be returned.
 ("", "z")      ==> 0
 
 Notes:
+The first argument can be an empty string
 */
 
 
