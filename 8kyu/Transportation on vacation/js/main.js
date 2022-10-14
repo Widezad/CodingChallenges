@@ -21,3 +21,4 @@ function rentalCarCost(d) {
 }
 //Test Cases
 console.log(rentalCarCost(1)) //40
+console.log(rentalCarCost(2)) //80
