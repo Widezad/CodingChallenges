@@ -23,4 +23,5 @@ function rentalCarCost(d) {
 console.log(rentalCarCost(1)) //40
 console.log(rentalCarCost(2)) //80
 console.log(rentalCarCost(3)) //100
-console.log(rentalCarCost(4)) //180
+console.log(rentalCarCost(4)) //140
+console.log(rentalCarCost(5)) //180
