@@ -25,3 +25,4 @@ console.log(rentalCarCost(2)) //80
 console.log(rentalCarCost(3)) //100
 console.log(rentalCarCost(4)) //140
 console.log(rentalCarCost(5)) //180
+console.log(rentalCarCost(6)) //220
