@@ -16,5 +16,7 @@ Write a code that gives out the total amount for different days(d).
 */
 
 //Function
-
+function rentalCarCost(d) {
+    
+}
 //Test Cases
