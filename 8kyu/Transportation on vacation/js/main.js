@@ -17,7 +17,7 @@ Write a code that gives out the total amount for different days(d).
 
 //Function
 function rentalCarCost(d) {
-    let total = 40 * d, discount = 0;
+    let total = 40 * d
     if(d >= 7) {
         return total -= 50
     }
