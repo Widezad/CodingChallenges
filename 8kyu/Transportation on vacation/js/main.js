@@ -14,3 +14,5 @@ the car for 3 or more days, you get $20 off your total.
 
 Write a code that gives out the total amount for different days(d).
 */
+
+//Function
