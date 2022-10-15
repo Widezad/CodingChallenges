@@ -19,6 +19,7 @@ Lua) or "¥" (Rust).
 
 //Function
 function bonusTime(salary, bonus) {
-    
+
 }
 //Test Cases
+console.log(bonusTime(10000, true)) //'E100000'
