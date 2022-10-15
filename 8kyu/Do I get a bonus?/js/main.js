@@ -19,7 +19,11 @@ Lua) or "¥" (Rust).
 
 //Function
 function bonusTime(salary, bonus) {
-
+    if(bonus === true){
+      return '£' + salary * 10;
+      } else {
+      return '£' + salary;
+    }
 }
 //Test Cases
 console.log(bonusTime(10000, true)) //'E100000'
