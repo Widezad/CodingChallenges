@@ -16,3 +16,5 @@ prefixed with "£" (= "\u00A3", JS, Go, Java, Scala, and Julia),
 "$" (C#, C++, Ruby, Clojure, Elixir, PHP, Python, Haskell, and 
 Lua) or "¥" (Rust).
 */
+
+//Function
