@@ -13,7 +13,8 @@ only his stated salary.
 
 Return the total figure the individual will receive as a string 
 prefixed with "£" (= "\u00A3", JS, Go, Java, Scala, and Julia), 
-"$" (C#, C++, Ruby, Clojure, Elixir, PHP, Python, Haskell, and Lua) or "¥" (Rust).
+"$" (C#, C++, Ruby, Clojure, Elixir, PHP, Python, Haskell, and 
+Lua) or "¥" (Rust).
 
 
 */
