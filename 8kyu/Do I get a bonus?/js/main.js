@@ -18,5 +18,7 @@ Lua) or "¥" (Rust).
 */
 
 //Function
-
+function bonusTime(salary, bonus) {
+    
+}
 //Test Cases
