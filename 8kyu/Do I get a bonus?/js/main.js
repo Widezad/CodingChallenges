@@ -25,3 +25,4 @@ function bonusTime(salary, bonus) {
 console.log(bonusTime(10000, true)) //'E100000'
 console.log(bonusTime(25000, true)) //'E250000'
 console.log(bonusTime(10000, false)) // 'E10000'
+console.log(bonusTime(6000, false)) // 'E60000'
