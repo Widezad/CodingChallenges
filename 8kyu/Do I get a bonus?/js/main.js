@@ -24,3 +24,4 @@ function bonusTime(salary, bonus) {
 //Test Cases
 console.log(bonusTime(10000, true)) //'E100000'
 console.log(bonusTime(25000, true)) //'E250000'
+console.log(bonusTime(10000, false)) // 'E10000'
