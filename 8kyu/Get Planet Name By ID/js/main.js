@@ -11,24 +11,23 @@ Example (Input --> Output):
 
 //Function
 function getPlanetName(id) {
-    let name;
   switch(id){
     case 1:
-      name = 'Mercury'
+      return 'Mercury'
     case 2:
-      name = 'Venus'
+      return 'Venus'
     case 3:
-      name = 'Earth'
+      return 'Earth'
     case 4:
-      name = 'Mars'
+      return 'Mars'
     case 5:
-      name = 'Jupiter'
+      return 'Jupiter'
     case 6:
-      name = 'Saturn'
+      return 'Saturn'
     case 7:
-      name = 'Uranus'
+      return 'Uranus'
     case 8:
-      name = 'Neptune'
+      return 'Neptune'
   }
 }
 //Test Cases
