@@ -11,6 +11,7 @@ Example (Input --> Output):
 
 //Function
 function getPlanetName(id) {
-    
+
 }
 //Test Cases
+console.log(getPlanetName(2)) // 'Venus'
