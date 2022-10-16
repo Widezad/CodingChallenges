@@ -11,7 +11,7 @@ Example (Input --> Output):
 
 //Function
 function getPlanetName(id) {
-    var name;
+    let name;
   switch(id){
     case 1:
       name = 'Mercury'
