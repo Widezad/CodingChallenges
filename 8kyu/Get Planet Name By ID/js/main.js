@@ -10,5 +10,7 @@ Example (Input --> Output):
 */
 
 //Function
-
+function getPlanetName(id) {
+    
+}
 //Test Cases
