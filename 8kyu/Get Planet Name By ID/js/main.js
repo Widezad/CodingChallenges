@@ -15,3 +15,4 @@ function getPlanetName(id) {
 }
 //Test Cases
 console.log(getPlanetName(2)) // 'Venus'
+console.log(getPlanetName(5)) // 'Jupiter'
