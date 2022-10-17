@@ -13,4 +13,6 @@ Factors are numbers you  can multiply together to get another number
 
 You can find a factor by dividing numbers. If the remainder is 0 
 then the number is a factor.
+
+You can use the mod operator (%) in most languages to check for a remainder
 */
