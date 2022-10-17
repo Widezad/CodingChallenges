@@ -30,4 +30,4 @@ function checkForFactor(base, factor) {
 console.log(checkForFactor(10,2)) //true
 console.log(checkForFactor(653,7)) //false
 console.log(checkForFactor(2450,5)) //false
-console.log(checkForFactor(24617, 3)) //false
+console.log(checkForFactor(24612, 3)) //false
