@@ -23,3 +23,5 @@ Note: base is a non-negative number, factor is a positive number.
 */
 
 //Fucntion
+
+//Test Cases
