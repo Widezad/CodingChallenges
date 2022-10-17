@@ -16,4 +16,6 @@ then the number is a factor.
 
 You can use the mod operator (%) in most languages to check for a 
 remainder
+
+For example 2 is not a factor of 7 because 7 % 2 = 1
 */
