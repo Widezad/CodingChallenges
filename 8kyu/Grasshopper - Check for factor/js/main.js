@@ -31,3 +31,4 @@ console.log(checkForFactor(10,2)) //true
 console.log(checkForFactor(653,7)) //false
 console.log(checkForFactor(2450,5)) //false
 console.log(checkForFactor(24612, 3)) //false
+console.log(checkForFactor(9,2)) //false
