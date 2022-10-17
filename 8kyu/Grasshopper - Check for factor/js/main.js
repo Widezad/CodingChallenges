@@ -24,6 +24,7 @@ Note: base is a non-negative number, factor is a positive number.
 
 //Fucntion
 function checkForFactor(base, factor) {
-    
+
 }
 //Test Cases
+console.log(checkForFactor(10,2)) //true
