@@ -24,6 +24,12 @@ Note: base is a non-negative number, factor is a positive number.
 
 //Fucntion
 function checkForFactor(base, factor) {
+    if(base % factor === 0) {
+        return true
+    }
+    else {
+        return false
+    }
 
 }
 //Test Cases
