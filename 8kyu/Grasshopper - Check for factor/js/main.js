@@ -28,3 +28,4 @@ function checkForFactor(base, factor) {
 }
 //Test Cases
 console.log(checkForFactor(10,2)) //true
+console.log(checkForFactor(653,7)) //false
