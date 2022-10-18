@@ -11,4 +11,6 @@ Find the errors in the code to get the celsius converter working
 properly.
 
 To convert fahrenheit to celsius:
+
+celsius = (farenheit - 32) * (5/9)
 */
