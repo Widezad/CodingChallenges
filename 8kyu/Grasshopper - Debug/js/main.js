@@ -34,3 +34,4 @@ function convertToCelsius(temperature) {
     return celsius
 }
 //Test cases
+console.log(weatherInfro(50)) //'10 is above freezing temperature 
