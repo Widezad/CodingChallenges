@@ -30,7 +30,7 @@ function weatherInfo (temp) {
   }
   
   function convertToCelsius (temperature) {
-    let celsius = weatherInfo(temp) - 32 + (5/9)
+    let celsius = weatherInfo(temperature) - 32 + (5/9)
     return celsius
 }
 //Test cases
