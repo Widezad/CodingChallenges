@@ -34,5 +34,5 @@ function weatherInfo (temp) {
     return temperature
 }
 //Test cases
-console.log(weatherInfro(50)) //'10 is above freezing temperature 
+console.log(weatherInfo(50)) //'10 is above freezing temperature 
 console.log(weatherInfro(23)) //'-5 is freezing temperature 
