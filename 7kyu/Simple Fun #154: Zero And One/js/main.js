@@ -38,3 +38,4 @@ function zeroAndOne(s) {
 
 }
 //Test Cases
+console.log(zeroAndOne("01010")) //1
