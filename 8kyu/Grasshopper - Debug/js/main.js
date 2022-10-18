@@ -22,6 +22,9 @@ types of temperature measuring sensors.
 */
 //function
 function weatherInfro(temp) {
+
+}
+function convertToCelsius(temperature) {
     
 }
 //Test cases
