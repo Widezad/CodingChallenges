@@ -30,6 +30,7 @@ function weatherInfro(temp) {
     }
 }
 function convertToCelsius(temperature) {
-
+    let celsius = (temperature) - 32 + (5/9)
+    return celsius
 }
 //Test cases
