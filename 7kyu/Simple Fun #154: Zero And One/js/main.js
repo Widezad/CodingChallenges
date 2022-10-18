@@ -32,3 +32,5 @@ The initial string.
 The minimum length of the string that may remain after applying the 
 described operations as many times as possible.
 */
+
+//Function
