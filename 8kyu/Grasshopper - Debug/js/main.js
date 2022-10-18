@@ -21,3 +21,5 @@ Instrument error though makes this sort of accuracy unreliable for many
 types of temperature measuring sensors.
 */
 //function
+
+//Test cases
