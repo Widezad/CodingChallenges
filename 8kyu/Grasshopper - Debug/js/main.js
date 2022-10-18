@@ -24,9 +24,9 @@ types of temperature measuring sensors.
 function weatherInfo (temp) {
     let c = (temp)
     if (c > 0)
-      return (`c + ${temp} is freezing temperature`)
+      return (`${temp} is freezing temperature`)
     else
-      return (`c + ${temp} is above freezing temperature`)
+      return (`${temp} is above freezing temperature`)
   }
   
   function convertToCelsius (temperature) {
