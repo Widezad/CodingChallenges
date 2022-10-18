@@ -34,5 +34,7 @@ described operations as many times as possible.
 */
 
 //Function
+function zeroAndOne(s) {
 
+}
 //Test Cases
