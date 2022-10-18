@@ -31,7 +31,7 @@ function weatherInfo (temp) {
   
   function convertToCelsius (temperature) {
     let celsius = (temperature) - 32 + (5/9)
-    return temperature
+    return celsius
 }
 //Test cases
 console.log(weatherInfo(50)) //'10 is above freezing temperature 
