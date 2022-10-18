@@ -35,7 +35,7 @@ described operations as many times as possible.
 
 //Function
 function zeroAndOne(s) {
-    return 0
+    return s.replace(/01/g,'').replace(/10/g,'').length
 }
 //Test Cases
 console.log(zeroAndOne("01010")) //1
