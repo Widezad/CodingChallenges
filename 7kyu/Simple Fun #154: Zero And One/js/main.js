@@ -39,3 +39,4 @@ function zeroAndOne(s) {
 }
 //Test Cases
 console.log(zeroAndOne("01010")) //1
+console.log(zeroAndOne("11101111")) //6
