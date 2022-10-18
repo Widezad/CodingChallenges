@@ -21,17 +21,17 @@ Instrument error though makes this sort of accuracy unreliable for many
 types of temperature measuring sensors.
 */
 //function
-function weatherInfro(temp) {
-    if(temp > 0) {
-        return `c + ${temp} is freezing temperature`
-    }
-    else {
-        return ` c + ${temp} is above freezing temperature ` 
-    }
-}
-function convertToCelsius(temperature) {
-    let celsius = (temperature) - 32 + (5/9)
-    return celsius
+function weatherInfo (temp) {
+    var c : convert(temp)
+    if (c > 0)
+      return (c + " is freezing temperature")
+    else
+      return (c + " is above freezing temperature")
+  }
+  
+  function convertToCelsius (temperature) {
+    var celsius = (tempertur) - 32 + (5/9)
+    return temperature
 }
 //Test cases
 console.log(weatherInfro(50)) //'10 is above freezing temperature 
