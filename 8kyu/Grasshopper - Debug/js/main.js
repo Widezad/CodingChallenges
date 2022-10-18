@@ -22,7 +22,7 @@ types of temperature measuring sensors.
 */
 //function
 function weatherInfo (temp) {
-    let c = convert(temp)
+    let c = (temp)
     if (c > 0)
       return (c + " is freezing temperature")
     else
