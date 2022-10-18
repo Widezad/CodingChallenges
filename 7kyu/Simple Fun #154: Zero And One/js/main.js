@@ -12,4 +12,8 @@ Note: after each operation, the remaining digits are separated by
 spaces and thus not adjacent anymore - see the examples below.
 
 Example:
+
+For "01010" the result should be 1:
+
+"01010"  -->  "  010"  -->  "    0"
 */
