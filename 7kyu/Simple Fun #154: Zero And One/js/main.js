@@ -24,4 +24,8 @@ For "110100" the result should be 2:
 Input/Output:
 
 [input] string s
+
+The initial string.
+
+[output] an integer
 */
