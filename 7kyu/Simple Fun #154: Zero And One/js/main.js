@@ -35,7 +35,16 @@ described operations as many times as possible.
 
 //Function
 function zeroAndOne(s) {
-    return s.replace(/01/g,'').replace(/10/g,'').length
+    let count = 0;
+    for(let i = 0; i < s.length; i++) {
+        if(s [i] == s[i + 1] || i == s.length - 1) {
+            count++
+        }
+        else {
+            i++
+        }
+    }
+    return count
 }
 //Test Cases
 console.log(zeroAndOne("01010")) //1
