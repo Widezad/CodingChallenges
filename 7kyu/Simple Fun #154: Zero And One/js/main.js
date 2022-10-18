@@ -29,5 +29,6 @@ The initial string.
 
 [output] an integer
 
-The minimum length of the string that may remain after applying the described operations as many times as possible.
+The minimum length of the string that may remain after applying the 
+described operations as many times as possible.
 */
