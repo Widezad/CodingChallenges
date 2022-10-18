@@ -41,3 +41,4 @@ function zeroAndOne(s) {
 console.log(zeroAndOne("01010")) //1
 console.log(zeroAndOne("11101111")) //6
 console.log(zeroAndOne("01")) //0
+console.log(zeroAndOne("10")) //0
