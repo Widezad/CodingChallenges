@@ -22,9 +22,14 @@ types of temperature measuring sensors.
 */
 //function
 function weatherInfro(temp) {
-
+    if(temp > 0) {
+        return `c + ${temp} is freezing temperature`
+    }
+    else {
+        return ` c + ${temp} is above freezing temperature ` 
+    }
 }
 function convertToCelsius(temperature) {
-    
+
 }
 //Test cases
