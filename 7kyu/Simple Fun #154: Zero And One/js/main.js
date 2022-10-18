@@ -22,4 +22,6 @@ For "110100" the result should be 2:
 "110100"  -->  "1  100"  -->  "1    0"
 
 Input/Output:
+
+[input] string s
 */
