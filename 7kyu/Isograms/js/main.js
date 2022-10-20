@@ -8,5 +8,6 @@ empty string is an isogram. Ignore letter case.
 
 Example:(Inout --> Output)
 
-"Dermatoglyphics" --> true "aba" --> false "moOse" --> false (ignore letter case)
+"Dermatoglyphics" --> true "aba" --> false "moOse" --> false 
+(ignore letter case)
 */
