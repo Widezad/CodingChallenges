@@ -7,4 +7,6 @@ a string that contains only letters is an isogram. Assume the
 empty string is an isogram. Ignore letter case.
 
 Example:(Inout --> Output)
+
+"Dermatoglyphics" --> true "aba" --> false "moOse" --> false (ignore letter case)
 */
