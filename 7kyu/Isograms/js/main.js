@@ -11,3 +11,5 @@ Example:(Inout --> Output)
 "Dermatoglyphics" --> true "aba" --> false "moOse" --> false 
 (ignore letter case)
 */
+
+//Test Case
