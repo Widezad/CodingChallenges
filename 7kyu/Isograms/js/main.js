@@ -13,5 +13,8 @@ Example:(Inout --> Output)
 */
 
 //Function
+function isIsogram(str) {
+    
+}
 
 //Test Case
