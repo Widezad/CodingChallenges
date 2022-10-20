@@ -53,3 +53,40 @@ console.log(zeroAndOne("01")) //0
 console.log(zeroAndOne("10")) //0
 console.log(zeroAndOne("110110")) //2
 console.log(zeroAndOne("110100")) //2
+
+function fizzBuzz(n) {
+    for(let i = 1; i <= n; i++) {
+        if(i % 3 === 0 && i % 5 === 0) {
+            console.log('FizzBuzz')
+        }
+        else if(i % 3 === 0 && i % 5 != 0) {
+            console.log('Fizz')
+        }
+        else if(i % 5 === 0 && i % 3 != 0) {
+            console.log('Buzz')
+        }
+        else {
+            console.log(i)
+        }
+    }
+}
+fizzBuzz(100)
+/*fizzBuzz(3)
+fizzBuzz(6)
+fizzBuzz(9)
+fizzBuzz(12)
+fizzBuzz(5)
+fizzBuzz(10)
+fizzBuzz(15)
+fizzBuzz(14)
+*/
+function getIdealNums(low, high) {
+    // Write your code here
+    for(let i = 1; i <= low; i++) {
+        if(high % i === 0) {
+            return i
+        }
+    }
+}
+console.log(getIdealNums(1))
+
