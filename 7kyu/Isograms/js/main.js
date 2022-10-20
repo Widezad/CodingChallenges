@@ -23,3 +23,4 @@ console.log(isIsogram("isogram")) //true
 console.log(isIsogram("aba")) //false
 console.log(isIsogram("mo0se")) //false
 console.log(isIsogram("isIsogram")) //false
+console.log(isIsogram(" ")) //true
