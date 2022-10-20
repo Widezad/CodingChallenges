@@ -20,3 +20,4 @@ function isIsogram(str) {
 //Test Case
 console.log(isIsogram("Dermatoglyphics")) //true
 console.log(isIsogram("isogram")) //true
+console.log(isIsogram("aba")) //false
