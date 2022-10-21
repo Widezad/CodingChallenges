@@ -26,7 +26,8 @@ function encode(str) {
 }
 
 
-function decode(s) {
+function decode(str) {
+    return str.split('').map(v=>String.fromCharCode(v.charCodeAt()/6)).join('')
 }
 //Test Cases
 console.log(encode("codewars")) // csordaew
