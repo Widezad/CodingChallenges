@@ -9,4 +9,6 @@ Then add the letters in a clockwise direction:
 Then remove the circle:
 
 If we read the result from left to right, we get csordaew.
+
+Decoding is the same process in reverse. If we decode csordaew, get codewars.
 */
