@@ -13,4 +13,7 @@ If we read the result from left to right, we get csordaew.
 Decoding is the same process in reverse. If we decode csordaew, get codewars.
 
 Examples:
+
+encode "codewars" -> "csordaew"
+decode "csordaew" -> "codewars"
 */
