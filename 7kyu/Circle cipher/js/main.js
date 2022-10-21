@@ -21,9 +21,10 @@ encode "white" -> "wehti"
 decode "wehti" -> "white"
 */
 
-//Function
-function encode(s) {
+function encode(str) {
+    return str.split('').map(v=>String.fromCharCode(v.charCodeAt()*6)).join('')
 }
+
 
 function decode(s) {
 }
