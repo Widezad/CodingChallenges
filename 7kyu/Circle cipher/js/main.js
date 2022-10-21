@@ -31,3 +31,4 @@ function decode(s) {
 console.log(encode("codewars")) // csordaew
 console.log(encode("white")) //wehti
 console.log(encode("Assert")) //Atsrse
+console.log(encode("Hello world!")) //H!edllroo w
