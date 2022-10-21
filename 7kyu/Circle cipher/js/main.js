@@ -21,13 +21,21 @@ encode "white" -> "wehti"
 decode "wehti" -> "white"
 */
 
-function encode(str) {
-    return str.split('').map(v=>String.fromCharCode(v.charCodeAt()*6)).join('')
-}
-
-
-function decode(str) {
-    return str.split('').map(v=>String.fromCharCode(v.charCodeAt()/6)).join('')
+function encode(s) {
+    const out=[]
+    for(let i=0, j=s.length ; i<j ; i++){
+      out.push(s[i])
+      if (--j>i) out.push(s[j])
+    }
+    return out.join('')
+  }
+  
+  function decode(s) {
+    const right=[], rev=[]
+    for(let i=0;i<s.length;i++){
+      (i%2 ? rev : right).push(s[i])
+    }
+    return right.concat(rev.reverse()).join('')
 }
 //Test Cases
 console.log(encode("codewars")) // csordaew
