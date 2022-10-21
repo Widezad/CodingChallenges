@@ -29,3 +29,4 @@ function decode(s) {
 }
 //Test Cases
 console.log(encode("codewars")) // csordaew
+console.log(encode("white")) //wehti
