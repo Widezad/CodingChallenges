@@ -28,3 +28,4 @@ function encode(s) {
 function decode(s) {
 }
 //Test Cases
+console.log(encode("codewars")) // csordaew
