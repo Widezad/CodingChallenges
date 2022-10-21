@@ -22,5 +22,9 @@ decode "wehti" -> "white"
 */
 
 //Function
+function encode(s) {
+}
 
+function decode(s) {
+}
 //Test Cases
