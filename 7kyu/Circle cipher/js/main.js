@@ -22,3 +22,5 @@ decode "wehti" -> "white"
 */
 
 //Function
+
+//Test Cases
