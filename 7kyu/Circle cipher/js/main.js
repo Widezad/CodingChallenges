@@ -33,3 +33,5 @@ console.log(encode("white")) //wehti
 console.log(encode("Assert")) //Atsrse
 console.log(encode("Hello world!")) //H!edllroo w
 console.log(encode("You have chosen to translate this kata.")) //Y.oaut ahka vsei hcth oesteanl stnoa rt
+
+console.log(decode("csordaew")) //codewars
