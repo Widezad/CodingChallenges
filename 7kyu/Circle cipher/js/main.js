@@ -16,4 +16,7 @@ Examples:
 
 encode "codewars" -> "csordaew"
 decode "csordaew" -> "codewars"
+
+encode "white" -> "wehti"
+decode "wehti" -> "white"
 */
