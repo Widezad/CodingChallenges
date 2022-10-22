@@ -14,7 +14,7 @@ n = 3, so i expect a 3x3 square back just like below a string:
 
 //Function
 function generateShape(integer){
-
+    return ('+'.repeat(integer) + '\n').repeat(integer).trim()
 }
 //Test Cases
 console.log(generateShape(8)) //'++++++++\n++++++++\n++++++++\n++++++++\n++++++++\n++++++++\n++++++++\n++++++++'
