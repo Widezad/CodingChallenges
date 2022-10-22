@@ -7,4 +7,7 @@ wide as the integer. The integer will be a whole number between 1 and 50.
 Example
 
 n = 3, so i expect a 3x3 square back just like below a string:
++++
++++
++++
 */
