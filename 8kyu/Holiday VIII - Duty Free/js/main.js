@@ -22,3 +22,4 @@ function dutyFree(normPrice, discount, hol){
 }
 //Test Cases
 console.log(dutyFree(12,50,1000)) //166
+console.log(dutyFree(17,10,500)) //294
