@@ -17,5 +17,7 @@ All inputs will be integers. Please return an integer. Round down.
 */
 
 //Function
+function dutyFree(normPrice, discount, hol){
 
+}
 //Test Cases
