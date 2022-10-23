@@ -18,7 +18,7 @@ All inputs will be integers. Please return an integer. Round down.
 
 //Function
 function dutyFree(normPrice, discount, hol){
-
+    return Math.trunc(hol/(normPrice * (discount / 100))) ;
 }
 //Test Cases
 console.log(dutyFree(12,50,1000)) //166
