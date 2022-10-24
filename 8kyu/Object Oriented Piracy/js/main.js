@@ -35,4 +35,6 @@ Add the method
 isWorthIt
 
 to decide if the ship is worhty to loot, for example:
+
+titanic.isWorthIt() return false
 */
