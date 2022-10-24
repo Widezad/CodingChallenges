@@ -42,3 +42,5 @@ This Kata teaches you the very basic of method creation.
 
 Good luck!
 */
+
+//Function
