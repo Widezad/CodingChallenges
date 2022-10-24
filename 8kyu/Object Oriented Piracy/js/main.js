@@ -33,4 +33,6 @@ of booty!
 Add the method
 
 isWorthIt
+
+to decide if the ship is worhty to loot, for example:
 */
