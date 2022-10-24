@@ -37,4 +37,6 @@ isWorthIt
 to decide if the ship is worhty to loot, for example:
 
 titanic.isWorthIt() return false
+
+This Kata teaches you the very basic of method creation.
 */
