@@ -21,5 +21,7 @@ duck_duck_goose([$a, $b, $c, $d], 4); // => $d["name"]
 */
 
 //Function
-
+function duckDuckGoose(players, goose) {
+    // ...
+}
 //Test Cases
