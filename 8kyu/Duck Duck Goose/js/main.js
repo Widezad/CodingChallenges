@@ -25,3 +25,4 @@ function duckDuckGoose(players, goose) {
     // ...
 }
 //Test Cases
+console.log(duckDuckGoose(players, 1)) //a
