@@ -12,5 +12,8 @@ if a ship if full of gold and not people?
 
 You begin with writing a generic Ship class / struct:
 
-
+function Ship(draft,crew) {
+ this.draft = draft;
+ this.crew = crew;
+}
 */
