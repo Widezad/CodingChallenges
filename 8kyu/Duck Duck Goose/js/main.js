@@ -34,3 +34,4 @@ console.log(duckDuckGoose(players, 18)) //g
 console.log(duckDuckGoose(players, 28)) //g
 console.log(duckDuckGoose(players, 12)) //b
 console.log(duckDuckGoose(players, 2)) //b
+console.log(duckDuckGoose(players, 7)) //f
