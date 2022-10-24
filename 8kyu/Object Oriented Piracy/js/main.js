@@ -17,5 +17,6 @@ function Ship(draft,crew) {
  this.crew = crew;
 }
 
-Every time your spies see a new ship enter the dock, they will create a new ship object based on their observations:
+Every time your spies see a new ship enter the dock, they will create a 
+new ship object based on their observations:
 */
