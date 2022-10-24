@@ -23,7 +23,7 @@ duck_duck_goose([$a, $b, $c, $d], 4); // => $d["name"]
 //Function
 function duckDuckGoose(players, goose) {
     // ...
-    return players[(goose - 1) % players.length]
+    return players[(goose - 1) % players.length].name
 }
 //Test Cases
 console.log(duckDuckGoose(players, 1)) //a
