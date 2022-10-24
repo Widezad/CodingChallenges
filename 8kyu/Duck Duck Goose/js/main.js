@@ -29,3 +29,4 @@ console.log(duckDuckGoose(players, 1)) //a
 console.log(duckDuckGoose(players, 3)) //c
 console.log(duckDuckGoose(players, 10)) //z
 console.log(duckDuckGoose(players, 20)) //z
+console.log(duckDuckGoose(players, 30)) //z
