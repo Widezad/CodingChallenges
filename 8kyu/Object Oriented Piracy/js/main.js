@@ -9,4 +9,8 @@ with a heavy booty on board.
 
 Unfortunattely for you, people weigh a lot this days, so how do you know 
 if a ship if full of gold and not people?
+
+You begin with writing a generic Ship class / struct:
+
+
 */
