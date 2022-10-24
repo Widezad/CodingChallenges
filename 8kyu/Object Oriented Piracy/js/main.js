@@ -19,4 +19,7 @@ function Ship(draft,crew) {
 
 Every time your spies see a new ship enter the dock, they will create a 
 new ship object based on their observations:
+
+draft - an estimate of the ship's weight based on how low it is in the water
+crew - the count of crew on board
 */
