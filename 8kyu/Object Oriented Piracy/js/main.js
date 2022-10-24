@@ -31,4 +31,6 @@ considered worthy to loot. Any ship weighing that much must have a lot
 of booty!
 
 Add the method
+
+isWorthIt
 */
