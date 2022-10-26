@@ -16,5 +16,6 @@ Hints:
 Check your references
 Think about the scope of your method
 For prolog you can use write but there are better ways
-If you still don't get it probably you can define main as an attribute of the Solution class that accepts a single argument, and that only prints "Hello World!" without any return.
+If you still don't get it probably you can define main as an attribute 
+of the Solution class that accepts a single argument, and that only prints "Hello World!" without any return.
 */
