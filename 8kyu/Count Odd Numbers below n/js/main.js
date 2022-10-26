@@ -18,3 +18,4 @@ function oddCount(n) {
 }
 //Test Cases
 console.log(oddCount(15)) //7 Oopps! Wrong.
+console.log(oddCount(15023)) //7511 Oopps! Wrong.
