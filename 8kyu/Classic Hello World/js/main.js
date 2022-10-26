@@ -14,4 +14,5 @@ Solution.main("parameter1","parameter2");
 
 Hints:
 Check your references
+Think about the scope of your method
 */
