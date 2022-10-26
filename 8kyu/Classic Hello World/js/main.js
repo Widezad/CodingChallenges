@@ -20,3 +20,6 @@ If you still don't get it probably you can define main as an attribute
 of the Solution class that accepts a single argument, and that only 
 prints "Hello World!" without any return.
 */
+class Solution {
+    
+}
