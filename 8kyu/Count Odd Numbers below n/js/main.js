@@ -14,7 +14,9 @@ Expect large Inputs!
 
 //Fucntion
 function oddCount(n) {
-
+    const odds = n.filter(num => {
+        return num % 2 !== 0 < n
+    })
 }
 //Test Cases
 console.log(oddCount(15)) //7 Oopps! Wrong.
