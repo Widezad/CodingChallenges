@@ -14,6 +14,7 @@ Expect large Inputs!
 
 //Fucntion
 function oddCount(n) {
-    
+
 }
 //Test Cases
+console.log(oddCount(15)) //7 Oopps! Wrong.
