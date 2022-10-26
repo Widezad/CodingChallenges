@@ -13,5 +13,7 @@ Expect large Inputs!
 */
 
 //Fucntion
-
+function oddCount(n) {
+    
+}
 //Test Cases
