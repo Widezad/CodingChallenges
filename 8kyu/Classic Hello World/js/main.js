@@ -7,4 +7,6 @@ anything
 
 Note that for some languages, the function main is the entry point of 
 the program.
+
+Here's how it will be tested:
 */
