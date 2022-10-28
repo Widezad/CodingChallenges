@@ -21,3 +21,4 @@ function first(arr, n) {
 }
 //Test cases
 console.log(first([... arr])) // ,        ['a']
+console.log(first([...arr])) // 2 , ['a', 'b']
