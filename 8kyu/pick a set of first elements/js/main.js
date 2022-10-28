@@ -9,5 +9,6 @@ if n == 0 return an empty sequence []
 
 Examples
 var arr = ['a', 'b', 'c', 'd', 'e'];
-first (arr) // => ['a]
+first (arr) // => ['a'];
+fist(arr, 2) //=> ['a', 'b']
 */
