@@ -18,6 +18,13 @@ fist(arr, 0) // => [];
 //function
 function first(arr, n) {
     //return arr
+    arr = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l',
+    'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+    if(arr === 0) {
+        return []
+    } else {
+        return 
+    }
 }
 //Test cases
 console.log(first([... arr])) // ,        ['a']
