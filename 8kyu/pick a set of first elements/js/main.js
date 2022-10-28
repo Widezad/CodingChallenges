@@ -16,3 +16,5 @@ fist(arr, 0) // => [];
 */
 
 //function
+
+//Test cases
