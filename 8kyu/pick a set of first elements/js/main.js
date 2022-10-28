@@ -16,5 +16,7 @@ fist(arr, 0) // => [];
 */
 
 //function
-
+function fist(arr, n) {
+    //return arr
+}
 //Test cases
