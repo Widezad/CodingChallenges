@@ -14,3 +14,5 @@ fist(arr, 2) //=> ['a', 'b']
 fist(arr, 3) // => ['a', 'b', 'c'];
 fist(arr, 0) // => [];
 */
+
+//function
