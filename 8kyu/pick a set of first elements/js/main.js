@@ -16,18 +16,13 @@ fist(arr, 0) // => [];
 */
 
 //function
-function first(arr, n) {
-    //return arr
-    arr = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l',
-    'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
-    if(n === 0) {
-        return []
-    } else if(n > 1) {
-        return n > 1 ? arr.slice(0, n) : [];
-    }else {
-        return arr[0]
-    }
-}
+function first(arr, n =1 ) {
+    if (n == 0){
+    return [];
+    }else if(n>0){
+      return arr.slice(0, n);
+      }
+ }
 //Test cases
 console.log(first([... arr])) // ,        ['a']
 console.log(first([...arr])) // 2 , ['a', 'b']
