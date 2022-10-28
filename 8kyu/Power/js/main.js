@@ -21,3 +21,4 @@ function numberToPower (number, power) {
     //code here
 }
 //Test Cases
+console.log(numberToPower(4,2)) //16
