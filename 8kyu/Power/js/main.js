@@ -16,10 +16,7 @@ disbled.
 */
 
 //Function
-function numberToPower (number, power) {
-    console.info(Math.log2(1024))
-    //code here
-}
+const numberToPower = (number, power) => power > 0 ? number * numberToPower(number, power - 1) : 1
 //Test Cases
 console.log(numberToPower(4,2)) //16
 console.log(numberToPower(10, 4)) //10000
