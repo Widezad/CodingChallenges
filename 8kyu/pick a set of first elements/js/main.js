@@ -12,4 +12,5 @@ var arr = ['a', 'b', 'c', 'd', 'e'];
 first (arr) // => ['a'];
 fist(arr, 2) //=> ['a', 'b']
 fist(arr, 3) // => ['a', 'b', 'c'];
+fist(arr, 0) // => [];
 */
