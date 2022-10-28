@@ -16,7 +16,8 @@ fist(arr, 0) // => [];
 */
 
 //function
-function fist(arr, n) {
+function first(arr, n) {
     //return arr
 }
 //Test cases
+console.log(first([... arr])) // ,        ['a']
