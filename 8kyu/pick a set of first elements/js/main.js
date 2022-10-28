@@ -20,10 +20,12 @@ function first(arr, n) {
     //return arr
     arr = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l',
     'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
-    if(arr === 0) {
+    if(n === 0) {
         return []
-    } else {
-        return 
+    } else if(n > 1) {
+        return n > 1 ? arr.slice(0, n) : [];
+    }else {
+        return arr[0]
     }
 }
 //Test cases
