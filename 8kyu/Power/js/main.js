@@ -16,5 +16,8 @@ disbled.
 */
 
 //Function
-
+function numberToPower (number, power) {
+    console.info(Math.log2(1024))
+    //code here
+}
 //Test Cases
