@@ -6,4 +6,7 @@ that "raises" the number up to power (ie multiplies number by
 itself power times).
 
 Examples
+
+numberToPower(3,2)  // -> 9 ( = 3 * 3 )
+
 */
