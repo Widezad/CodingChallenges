@@ -11,4 +11,6 @@ Task
 Given a year, return the century it is in.
 
 Examples
+
+1705 --> 18
 */
