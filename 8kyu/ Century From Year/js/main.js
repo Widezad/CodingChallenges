@@ -19,3 +19,7 @@ Examples
 */
 
 //Function
+function century (year) {
+    //finish this :)
+    return;
+}
