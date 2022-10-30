@@ -26,4 +26,5 @@ function century (year) {
 
 //Test Cases
 console.log(century(1705)) //18 "Testing for year 1705"
-console.log(century(1900)) //19 "Testing for yeat 1900"
+console.log(century(1900)) //19 "Testing for year 1900"
+console.log(century(1601)) //17 "Testing for year 1601"
