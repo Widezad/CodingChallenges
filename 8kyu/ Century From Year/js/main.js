@@ -21,7 +21,7 @@ Examples
 //Function
 function century (year) {
     //finish this :)
-    return;
+    return Math.floor(year/100) + 1;
 }
 
 //Test Cases
