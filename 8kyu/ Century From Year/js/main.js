@@ -25,3 +25,4 @@ function century (year) {
 }
 
 //Test Cases
+console.log(century(1705)) //18 "Testing for year 1705"
