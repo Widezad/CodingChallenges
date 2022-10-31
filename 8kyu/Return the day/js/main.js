@@ -20,6 +20,9 @@ function whatday(num) {
     if (num === 1) {
         return "Sunday"
     }
+    else if (num === 2) {
+        return "Monday"
+    }
 
 }
 //Test Cases
