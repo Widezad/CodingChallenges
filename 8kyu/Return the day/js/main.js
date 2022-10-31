@@ -7,4 +7,5 @@ input number:
 1 returns "Sunday"
 2 returns "Monday"
 3 returns "Tuesday"
+4 returns "Wednesday"
 */
