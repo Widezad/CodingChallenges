@@ -10,4 +10,5 @@ input number:
 4 returns "Wednesday"
 5 returns "Thursday"
 6 returns "Friday"
+7 returns "Saturday"
 */
