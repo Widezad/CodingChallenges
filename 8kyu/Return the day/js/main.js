@@ -26,6 +26,9 @@ function whatday(num) {
     else if (num === 3) {
         return "Tuesday"
     }
+    else if (num === 4) {
+        return "Wednesday"
+    }
 
 }
 //Test Cases
