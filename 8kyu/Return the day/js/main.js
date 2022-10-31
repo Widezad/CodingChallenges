@@ -38,6 +38,9 @@ function whatday(num) {
     else if (num === 7) {
         return "Saturday"
     }
+    else {
+        return "Wrong, please enter a number between 1 and 7"
+    }
 
 }
 //Test Cases
