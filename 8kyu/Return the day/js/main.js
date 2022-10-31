@@ -16,5 +16,7 @@ Otherwise returns "Wrong, please enter a number between 1 and 7"
 */
 
 //Function
-
+function whatday(num) {
+    
+}
 //Test Cases
