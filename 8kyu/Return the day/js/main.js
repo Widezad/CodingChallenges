@@ -22,3 +22,4 @@ function whatday(num) {
 //Test Cases
 console.log(whatday(1)) // 'Sunday'
 console.log(whatday(2)) //'Monday'
+console.log(whatday(3)) // 'Tuesday'
