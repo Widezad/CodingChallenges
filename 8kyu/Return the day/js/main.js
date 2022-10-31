@@ -35,6 +35,9 @@ function whatday(num) {
     else if (num === 6) {
         return "Friday"
     }
+    else if (num === 7) {
+        return "Saturday"
+    }
 
 }
 //Test Cases
