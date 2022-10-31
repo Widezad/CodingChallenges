@@ -8,4 +8,5 @@ input number:
 2 returns "Monday"
 3 returns "Tuesday"
 4 returns "Wednesday"
+5 returns "Thursday"
 */
