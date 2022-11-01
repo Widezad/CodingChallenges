@@ -27,3 +27,4 @@ function excludingVatPrice(price) {
     return 0;
 }
 //Test Cases
+console.log(excludingVatPrice(230)) //200.00
