@@ -24,7 +24,12 @@ if null value given then return -1
 /* returh price without vat*/
 function excludingVatPrice(price) {
     // your code
-    return 0;
+    if(price === null) {
+        return -1
+    }
+    else {
+        return (price/ 1.15).toFixed(2)
+    }
 }
 //Test Cases
 console.log(excludingVatPrice(230)) //200.00
