@@ -14,6 +14,7 @@ it is in the future.
 
 //Function
 function twiceAsOld(dadYearsOld, sonYearsOld) {
-    
+
 }
 //Test Cases
+console.log(twiceAsOld(36, 7)) //2
