@@ -13,5 +13,7 @@ Thus, if your function receives 230.00 as input, it should
 return 200.00
 
 Notes:
-VAT is always 15% for the purposes of this kata
+
+VAT is always 15% for the purposes of this kata.
+Roud the result to 2 decimal places.
 */
