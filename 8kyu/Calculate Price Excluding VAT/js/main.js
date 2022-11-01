@@ -22,5 +22,8 @@ if null value given then return -1
 //function
 
 /* returh price without vat*/
-
+function excludingVatPrice(price) {
+    // your code
+    return 0;
+}
 //Test Cases
