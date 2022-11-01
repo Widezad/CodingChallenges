@@ -17,4 +17,5 @@ function twiceAsOld(dadYearsOld, sonYearsOld) {
 
 }
 //Test Cases
-console.log(twiceAsOld(36, 7)) //2
+console.log(twiceAsOld(36, 7)) //22
+console.log(twiceAsOld(55, 30)) //5
