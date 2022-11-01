@@ -28,7 +28,7 @@ function excludingVatPrice(price) {
         return -1
     }
     else {
-        return (price/ 1.15).toFixed(2)
+        return Number((price/ 1.15).toFixed(2))
     }
 }
 //Test Cases
