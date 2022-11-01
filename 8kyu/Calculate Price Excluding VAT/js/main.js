@@ -18,3 +18,5 @@ VAT is always 15% for the purposes of this kata.
 Roud the result to 2 decimal places.
 if null value given then return -1
 */
+
+//function
