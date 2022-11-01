@@ -13,5 +13,7 @@ it is in the future.
 */
 
 //Function
-
+function twiceAsOld(dadYearsOld, sonYearsOld) {
+    
+}
 //Test Cases
