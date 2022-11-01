@@ -28,3 +28,4 @@ function excludingVatPrice(price) {
 }
 //Test Cases
 console.log(excludingVatPrice(230)) //200.00
+console.log(excludingVatPrice(123)) //106.96
