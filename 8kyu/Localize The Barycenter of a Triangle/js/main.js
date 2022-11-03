@@ -12,5 +12,6 @@ coordinates of the three vertices A, B and C  as three different
 arguments and outputs the coordinates of the barycenter O in an 
 array [xO, yO]
 
-This is how our asked function should work: the result of the coordinates should be expressed up to four decimals, (rounded result).
+This is how our asked function should work: the result of the 
+coordinates should be expressed up to four decimals, (rounded result).
 */
