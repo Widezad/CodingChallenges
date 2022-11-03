@@ -21,4 +21,8 @@ following formulas.
 
 For additional information about this important point of a 
 triangle see at: (https://en.wikipedia.org/wiki/Centroid)
+
+Let's see some cases:
+
+
 */
