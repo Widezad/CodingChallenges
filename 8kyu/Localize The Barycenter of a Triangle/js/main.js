@@ -19,5 +19,6 @@ coordinates should be expressed up to four decimals,
 You know that the coordinates of the barycenter are given by the 
 following formulas.
 
-For additional information about this important point of a triangle see at: (https://en.wikipedia.org/wiki/Centroid)
+For additional information about this important point of a 
+triangle see at: (https://en.wikipedia.org/wiki/Centroid)
 */
