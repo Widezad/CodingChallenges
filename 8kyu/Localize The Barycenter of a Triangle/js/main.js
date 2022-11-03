@@ -15,4 +15,6 @@ array [xO, yO]
 This is how our asked function should work: the result of the 
 coordinates should be expressed up to four decimals, 
 (rounded result).
+
+You know that the coordinates of the barycenter are given by the following formulas.
 */
