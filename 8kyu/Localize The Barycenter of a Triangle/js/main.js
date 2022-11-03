@@ -24,5 +24,6 @@ triangle see at: (https://en.wikipedia.org/wiki/Centroid)
 
 Let's see some cases:
 
+barTriang([4, 6], [12, 4], [10, 10]) ------> [8.6667, 6.6667]
 
 */
