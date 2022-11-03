@@ -35,5 +35,7 @@ Enjoy it and happy coding!!
 */
 
 //Function
-
+function barTriang(p1, p2, p3) {
+    
+}
 //Test cases
