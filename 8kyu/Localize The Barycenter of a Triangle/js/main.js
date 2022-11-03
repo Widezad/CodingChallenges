@@ -28,5 +28,6 @@ barTriang([4, 6], [12, 4], [10, 10]) ------> [8.6667, 6.6667]
 
 barTriang([4, 2], [12, 2], [6, 10]) ------> [7.3333, 4.6667]
 
-The given points form a real or a degenerate triangle but in each case the above formulas can be used.
+The given points form a real or a degenerate triangle but in each 
+case the above formulas can be used.
 */
