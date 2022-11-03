@@ -36,6 +36,7 @@ Enjoy it and happy coding!!
 
 //Function
 function barTriang(p1, p2, p3) {
-    
+
 }
 //Test cases
+console.log(barTriang([4, 6], [12, 4], [10, 10])) //[8.6667, 6.6667]
