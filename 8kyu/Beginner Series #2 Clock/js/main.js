@@ -20,3 +20,5 @@ Input Constraints
 0 <= m <= 59
 0 <= s <= 59
 */
+
+//Function
