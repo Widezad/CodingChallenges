@@ -15,4 +15,8 @@ s = 1
 result = 61000
 
 Input Constraints
+
+0 <= h <= 23
+0 <= m <= 59
+0 <= s <= 59
 */
