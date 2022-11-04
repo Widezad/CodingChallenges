@@ -30,3 +30,4 @@ console.log(past(0,0,1)) //61000
 console.log(past(1,1,1)) //36610000
 console.log(past(0,0,0)) //0
 console.log(past(0,0,0)) //0
+console.log(past(1,0,1)) //36010000
