@@ -26,3 +26,4 @@ function past(h, m, s){
     //#Happy Coding! ^_^
 }
 //Test Cases
+console.log(past(0,0,1)) //61000
