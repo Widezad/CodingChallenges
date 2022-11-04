@@ -27,3 +27,4 @@ function past(h, m, s){
 }
 //Test Cases
 console.log(past(0,0,1)) //61000
+console.log(past(1,1,1)) //36610000
