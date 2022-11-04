@@ -22,5 +22,7 @@ Input Constraints
 */
 
 //Function
-
+function past(h, m, s){
+    //#Happy Coding! ^_^
+}
 //Test Cases
