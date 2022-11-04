@@ -13,4 +13,6 @@ m = 1
 s = 1
 
 result = 61000
+
+Input Constraints
 */
