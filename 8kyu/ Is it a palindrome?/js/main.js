@@ -8,3 +8,4 @@ function isPalindrome(x) {
     return x.roLowerCase() == x.tolowercase().split('').reverse().join('')
 }
 //Test Cases
+console.log(isPalindrome("a")) //true
