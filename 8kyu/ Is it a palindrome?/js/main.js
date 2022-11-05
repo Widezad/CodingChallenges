@@ -4,5 +4,7 @@ Write a function that checks if a given string
 */
 
 //Function
-
+function isPalindrome(x) {
+    
+}
 //Test Cases
