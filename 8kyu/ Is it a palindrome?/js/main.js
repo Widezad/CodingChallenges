@@ -4,3 +4,5 @@ Write a function that checks if a given string
 */
 
 //Function
+
+//Test Cases
