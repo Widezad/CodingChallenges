@@ -5,7 +5,7 @@ Write a function that checks if a given string
 
 //Function
 function isPalindrome(x) {
-    return x.tolowercase().split('').reverse().join('')
+    return x.split('').reverse().join('').toLowerCase() ? true : false
 }
 //Test Cases
 console.log(isPalindrome("a")) //true
