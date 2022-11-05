@@ -10,3 +10,4 @@ function isPalindrome(x) {
 //Test Cases
 console.log(isPalindrome("a")) //true
 console.log(isPalindrome("aba")) //true
+console.log(isPalindrome("Abba")) //true
