@@ -11,3 +11,4 @@ function isPalindrome(x) {
 console.log(isPalindrome("a")) //true
 console.log(isPalindrome("aba")) //true
 console.log(isPalindrome("Abba")) //true
+console.log(isPalindrome("hello")) //false
